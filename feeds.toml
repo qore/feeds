@@ -1,6 +1,0 @@
-[favv]
-title = "Terugroepingen en waarschuwingen van producten"
-url = "https://favv-afsca.be/nl/producten"
-entrySelector = "div.view__content > ul li"
-titleSelector = "div a .node__initiators .initiator"
-linkSelector = "div a"
