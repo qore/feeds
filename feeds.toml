@@ -1,13 +1,6 @@
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
-entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
-
-[wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
-titleSelector = "h2"
-linkSelector = "h2 a"
+[favv]
+title = "Terugroepingen en waarschuwingen van producten"
+url = "https://favv-afsca.be/nl/producten"
+entrySelector = "div.view__content > ul li"
+titleSelector = "div a .node__initiators .initiator"
+linkSelector = "div a"
