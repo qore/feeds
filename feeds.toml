@@ -4,3 +4,10 @@ url = "https://favv-afsca.be/nl/producten"
 entrySelector = "div.view__content > ul li"
 titleSelector = "div a .node__initiators .initiator"
 linkSelector = "div a"
+
+[biac]
+title = "Brussels Airport Burenblog"
+url= "https://www.brusselsairport.be/nl/neighbours-and-spotters/blog"
+entrySelector = "#vue-category-overview-list .pressroom-news-item"
+titleSelector = "a .card-body .card-title"
+linkSelector = "a"
