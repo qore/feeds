@@ -1,4 +1,4 @@
-[Terugroepingen]
+[favv]
 title = "Terugroepingen en waarschuwingen van producten"
 url = "https://favv-afsca.be/nl/producten"
 entrySelector = "div.view__content > ul li"
