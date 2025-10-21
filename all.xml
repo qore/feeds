@@ -2,8 +2,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qore.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-10-21T05:44:16.243Z</updated>
+    <updated>2025-10-21T17:43:54.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Fine Eau-de-vie de Mirabelle (Terugroepingen en waarschuwingen van producten)]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-la-distillerie-de-biercee</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-la-distillerie-de-biercee"/>
+        <updated>2025-10-21T17:43:49.836Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-la-distillerie-de-biercee" title="Meer lezen over Terugroeping van La Distillerie de Biercée" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-10/21_10_2025_recall_eau-de-vie.jpg?itok=Acpxjw2i" width="414" height="600" alt="Fine Eau-de-vie de Mirabelle" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van La Distillerie de Biercée</span>
+          <span class="node__initiators">
+        <span class="initiator">Fine Eau-de-vie de Mirabelle</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Te hoog gehalte aan ethylcarbamaat</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="21/10/2025">
+          21/10/2025
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BIO vege lasagne met seitan en mozzarella van het merk Dobio (Terugroepingen en waarschuwingen van producten)]]></title>
+        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-natuurvlees-dobbelaere</id>
+        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-natuurvlees-dobbelaere"/>
+        <updated>2025-10-21T17:43:49.837Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/waarschuwing-van-natuurvlees-dobbelaere" title="Meer lezen over Waarschuwing van Natuurvlees Dobbelaere " class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-10/21_10_2025_Dobio_foto.jpg?itok=4HR1ftpm" width="261" height="337" alt="lasagne" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
+  <span class="taxonomy-term__title">
+            Waarschuwing
+      </span>
+</span></span>
+        <span class="node__title">Waarschuwing van Natuurvlees Dobbelaere </span>
+          <span class="node__initiators">
+        <span class="initiator">BIO vege lasagne met seitan en mozzarella van het merk Dobio</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Allergenen niet vermeld op het etiket: Ei en Soja</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="21/10/2025">
+          21/10/2025
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Groene olijven in plakjes van het merk AFNAN (Terugroepingen en waarschuwingen van producten)]]></title>
         <id>https://favv-afsca.be/nl/producten/waarschuwing-van-afnan</id>
@@ -348,92 +434,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="10/10/2025">
           10/10/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Witte venusschelp van het merk Delhaize (Terugroepingen en waarschuwingen van producten)]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-delhaize-5</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-delhaize-5"/>
-        <updated>2025-10-20T11:51:07.323Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-delhaize-5" title="Meer lezen over Terugroeping van Delhaize" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-10/10_10_2025_recall_Delhaize_venus.jpg?itok=mmYj6pqJ" width="550" height="574" alt="Vénus blanche Delhaize" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Delhaize</span>
-          <span class="node__initiators">
-        <span class="initiator">Witte venusschelp van het merk Delhaize</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke overschrijding van de toxinegrens van lipofiele toxines</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="10/10/2025">
-          10/10/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oregano “Origan” van het merk Cigalou (Terugroepingen en waarschuwingen van producten)]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-intermarche-4</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-intermarche-4"/>
-        <updated>2025-10-20T11:51:07.324Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-intermarche-4" title="Meer lezen over Terugroeping van Intermarché" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-10/09_10_2025_recall_ITM_kruiden.jpg?itok=BYqEL8TT" width="464" height="514" alt="Origan Cigalou" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Intermarché</span>
-          <span class="node__initiators">
-        <span class="initiator">Oregano “Origan” van het merk Cigalou</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan pyrrolizidine alkaloïden</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="09/10/2025">
-          09/10/2025
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
