@@ -14,7 +14,7 @@ linkSelector = "a"
 
 [trenara]
 title = "Trenara Blog"
-url = ""
+url = "https://www.trenara.com/nl/blog"
 entrySelector = "div[data-framer-name='Container'] div div[class*='-container']"
 titleSelector="a[data-framer-name^='Variant']div div[data-framer-name='Heading'] div[data-framer-name^='Lines'] p.framer-text"
 linkSelector = "a[data-framer-name^='Variant']"
