@@ -8,6 +8,13 @@ linkSelector = "div a"
 [biac]
 title = "Brussels Airport Burenblog"
 url= "https://www.brusselsairport.be/nl/neighbours-and-spotters/blog"
-entrySelector = "div#vue-category-overview-list div.pressroom-news-item a"
-titleSelector = "div.card-body h4.card-title"
-linkSelector = ""
+entrySelector = "div#vue-category-overview-list div.pressroom-news-item"
+titleSelector = "a div.card-body h4.card-title"
+linkSelector = "a"
+
+[trenara]
+title = "Trenara Blog"
+url = ""
+entrySelector = "div[data-framer-name='Container'] div div[class*='-container']"
+titleSelector="a[data-framer-name^='Variant']div div[data-framer-name='Heading'] div[data-framer-name^='Lines'] p.framer-text"
+linkSelector = "a[data-framer-name^='Variant']"
