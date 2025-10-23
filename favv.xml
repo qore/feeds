@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2025-10-23T12:37:30.374Z</updated>
+    <updated>2025-10-23T17:44:36.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Kurkumapoeder «Haldi Powder» van het merk Ali Baba]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-38</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-38"/>
+        <updated>2025-10-23T17:44:22.139Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-het-favv-38" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-10/23_10_2025_recall_Kurkuma_foto1.jpg?itok=OM3UNwza" width="145" height="241" alt="kurkuma" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van het FAVV</span>
+          <span class="node__initiators">
+        <span class="initiator">Kurkumapoeder «Haldi Powder» van het merk Ali Baba </span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van Salmonella</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="23/10/2025">
+          23/10/2025
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rozijnen “Raisins Secs Golden” van het merk Merveilles de la Nature]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-h-market</id>
@@ -389,49 +432,6 @@
         <span class="initiator">Hesp “Jambon Pays Vert bio” van het merk Coprosain</span>      </span>
               <span class="node__reasons">
         <span class="reason">Mogelijke aanwezigheid van Listeria monocytogenes</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="15/10/2025">
-          15/10/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gerookte tofu van het merk ALNATURA]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-cora-6</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-cora-6"/>
-        <updated>2025-10-20T11:51:07.311Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-cora-6" title="Meer lezen over Terugroeping van Cora" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-10/15_10_2025_recall_cora_tofu.jpg?itok=GSs4A787" width="297" height="529" alt="Tofu fumé ALNATURA" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Cora</span>
-          <span class="node__initiators">
-        <span class="initiator">Gerookte tofu van het merk ALNATURA</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van Bacillus cereus</span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="15/10/2025">
           15/10/2025
