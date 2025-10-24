@@ -2,9 +2,181 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2025-10-24T05:42:40.894Z</updated>
+    <updated>2025-10-24T17:44:00.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Apple Juice 1L van het merk Pure]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-hpp-belgium</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-hpp-belgium"/>
+        <updated>2025-10-24T17:43:45.141Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-hpp-belgium" title="Meer lezen over Terugroeping van HPP BELGIUM" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-10/24_10_2025_recall_Appelsap_foto.jpg?itok=sC-yDVLc" width="328" height="435" alt="appelsap" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van HPP BELGIUM</span>
+          <span class="node__initiators">
+        <span class="initiator">Apple Juice 1L van het merk Pure</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Te hoog gehalte aan patuline</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="24/10/2025">
+          24/10/2025
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gebakmix van het merk Arioso]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-aldi-6</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-aldi-6"/>
+        <updated>2025-10-24T17:43:45.142Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-aldi-6" title="Meer lezen over Terugroeping van Aldi" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-10/24_10_2025_recall_Aldi_foto.jpg?itok=Z-sl2FGy" width="426" height="217" alt="gebakmix" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Aldi</span>
+          <span class="node__initiators">
+        <span class="initiator">Gebakmix van het merk Arioso</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van stukjes blauw plastic</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="24/10/2025">
+          24/10/2025
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Donker bierazijn en Lagerbierazijn van het merk ARTHOME]]></title>
+        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-arthome</id>
+        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-arthome"/>
+        <updated>2025-10-24T17:43:45.142Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/waarschuwing-van-arthome" title="Meer lezen over Waarschuwing van ARTHOME" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-10/24_10_2025_WS_Bierazijn_foto1.jpg?itok=R-gMOLni" width="222" height="606" alt="bierazijn" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
+  <span class="taxonomy-term__title">
+            Waarschuwing
+      </span>
+</span></span>
+        <span class="node__title">Waarschuwing van ARTHOME</span>
+          <span class="node__initiators">
+        <span class="initiator">Donker bierazijn en Lagerbierazijn van het merk ARTHOME</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Allergeen niet vermeld op het etiket: Gluten (Tarwe en/of Gerst)</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="24/10/2025">
+          24/10/2025
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gezouten geroosterde pinda’s van het merk Best Africa]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-universal-fooding</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-universal-fooding"/>
+        <updated>2025-10-24T17:43:45.143Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-universal-fooding" title="Meer lezen over Terugroeping van Universal Fooding" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-10/24_10_2025_recall_Noten_foto.jpg?itok=1r1ElC4l" width="126" height="379" alt="noten" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Universal Fooding</span>
+          <span class="node__initiators">
+        <span class="initiator">Gezouten geroosterde pinda’s van het merk Best Africa</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Te hoog gehalte aan residu van gewasbeschermingsmiddelen (Chloorpyrifos)</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="24/10/2025">
+          24/10/2025
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kurkumapoeder «Haldi Powder» van het merk Ali Baba]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-38</id>
@@ -257,184 +429,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="21/10/2025">
           21/10/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIO vege lasagne met seitan en mozzarella van het merk Dobio]]></title>
-        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-natuurvlees-dobbelaere</id>
-        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-natuurvlees-dobbelaere"/>
-        <updated>2025-10-21T17:43:49.837Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/waarschuwing-van-natuurvlees-dobbelaere" title="Meer lezen over Waarschuwing van Natuurvlees Dobbelaere " class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-10/21_10_2025_Dobio_foto.jpg?itok=4HR1ftpm" width="261" height="337" alt="lasagne" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
-  <span class="taxonomy-term__title">
-            Waarschuwing
-      </span>
-</span></span>
-        <span class="node__title">Waarschuwing van Natuurvlees Dobbelaere </span>
-          <span class="node__initiators">
-        <span class="initiator">BIO vege lasagne met seitan en mozzarella van het merk Dobio</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Allergenen niet vermeld op het etiket: Ei en Soja</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="21/10/2025">
-          21/10/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Groene olijven in plakjes van het merk AFNAN]]></title>
-        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-afnan</id>
-        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-afnan"/>
-        <updated>2025-10-20T12:00:35.812Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/waarschuwing-van-afnan" title="Meer lezen over Waarschuwing van AFNAN " class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-10/20_10_2025_WS_AFNAN_olives_foto.jpg?itok=wToAEsAq" width="324" height="358" alt="olives" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
-  <span class="taxonomy-term__title">
-            Waarschuwing
-      </span>
-</span></span>
-        <span class="node__title">Waarschuwing van AFNAN </span>
-          <span class="node__initiators">
-        <span class="initiator">Groene olijven in plakjes van het merk AFNAN </span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Allergeen niet vermeld op het etiket: Sulfiet</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="20/10/2025">
-          20/10/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gerookte zalmforel van het merk Gabriel]]></title>
-        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-gabriel-srl</id>
-        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-gabriel-srl"/>
-        <updated>2025-10-20T11:51:07.309Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/waarschuwing-van-gabriel-srl" title="Meer lezen over Waarschuwing van Gabriel SRL" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-10/15_10_2025_WS_gabriels_vis.jpg?itok=baNfxIzf" width="379" height="583" alt="Truite saumonée fumée de la marque Gabriel" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
-  <span class="taxonomy-term__title">
-            Waarschuwing
-      </span>
-</span></span>
-        <span class="node__title">Waarschuwing van Gabriel SRL</span>
-          <span class="node__initiators">
-        <span class="initiator">Gerookte zalmforel van het merk Gabriel</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Foutieve houdbaarheidsdatum (TGT)</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="17/10/2025">
-          17/10/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hesp “Jambon Pays Vert bio” van het merk Coprosain]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-agrielia</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-agrielia"/>
-        <updated>2025-10-20T11:51:07.310Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-agrielia" title="Meer lezen over Terugroeping van Agriélia" class="node__card-link">
-          <span class="node__update">  <span class="taxonomy-term taxonomy-term--update-tags taxonomy-term--view-mode-teaser taxonomy-term--color--dark-blue">
-  <span class="taxonomy-term__title">
-            Update
-      </span>
-</span>
-</span>
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-09/24_09_2025_recall_hesp%20coprosain_foto.jpg?itok=ZhDfiUgK" width="443" height="594" alt="ham" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Agriélia</span>
-          <span class="node__initiators">
-        <span class="initiator">Hesp “Jambon Pays Vert bio” van het merk Coprosain</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van Listeria monocytogenes</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="15/10/2025">
-          15/10/2025
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
