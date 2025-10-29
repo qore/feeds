@@ -2,9 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2025-10-29T05:45:23.285Z</updated>
+    <updated>2025-10-29T17:47:36.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Gedroogde fenegriekbladeren van het merk Schani]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-39</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-39"/>
+        <updated>2025-10-29T17:47:23.407Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-het-favv-39" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-10/29_10_2025_recall_FAVV_fenegriekblad.jpg?itok=uCPs0gma" width="446" height="552" alt="Feuilles de fenugrec séchées - Schani" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van het FAVV</span>
+          <span class="node__initiators">
+        <span class="initiator">Gedroogde fenegriekbladeren van het merk Schani</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Te hoog gehalte aan residu van gewasbeschermingsmiddelen (Chloorpyrifos)</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="29/10/2025">
+          29/10/2025
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Salsiccia Toscana peperon van het merk SALUMIFICIO VIANI]]></title>
+        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-euro-delices-distribution</id>
+        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-euro-delices-distribution"/>
+        <updated>2025-10-29T17:47:23.409Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/waarschuwing-van-euro-delices-distribution" title="Meer lezen over Waarschuwing van EURO DELICES DISTRIBUTION" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-10/29_10_2025_WS_salcissia_foto.png?itok=ValQs0Kx" width="373" height="600" alt="salcissia" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
+  <span class="taxonomy-term__title">
+            Waarschuwing
+      </span>
+</span></span>
+        <span class="node__title">Waarschuwing van EURO DELICES DISTRIBUTION</span>
+          <span class="node__initiators">
+        <span class="initiator">Salsiccia Toscana peperon van het merk SALUMIFICIO VIANI </span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Aanwezigheid van caseïne (melkeiwit)</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="29/10/2025">
+          29/10/2025
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kaas « Crottin De Chavignol » van het merk Dubois Boulay]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-le-caprice-des-lieux</id>
@@ -346,92 +432,6 @@
         <span class="initiator">Gebakmix van het merk Arioso</span>      </span>
               <span class="node__reasons">
         <span class="reason">Mogelijke aanwezigheid van stukjes blauw plastic</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="24/10/2025">
-          24/10/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Donker bierazijn en Lagerbierazijn van het merk ARTHOME]]></title>
-        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-arthome</id>
-        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-arthome"/>
-        <updated>2025-10-24T17:43:45.142Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/waarschuwing-van-arthome" title="Meer lezen over Waarschuwing van ARTHOME" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-10/24_10_2025_WS_Bierazijn_foto1.jpg?itok=R-gMOLni" width="222" height="606" alt="bierazijn" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
-  <span class="taxonomy-term__title">
-            Waarschuwing
-      </span>
-</span></span>
-        <span class="node__title">Waarschuwing van ARTHOME</span>
-          <span class="node__initiators">
-        <span class="initiator">Donker bierazijn en Lagerbierazijn van het merk ARTHOME</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Allergeen niet vermeld op het etiket: Gluten (Tarwe en/of Gerst)</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="24/10/2025">
-          24/10/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gezouten geroosterde pinda’s van het merk Best Africa]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-universal-fooding</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-universal-fooding"/>
-        <updated>2025-10-24T17:43:45.143Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-universal-fooding" title="Meer lezen over Terugroeping van Universal Fooding" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-10/24_10_2025_recall_Noten_foto.jpg?itok=1r1ElC4l" width="126" height="379" alt="noten" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Universal Fooding</span>
-          <span class="node__initiators">
-        <span class="initiator">Gezouten geroosterde pinda’s van het merk Best Africa</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan residu van gewasbeschermingsmiddelen (Chloorpyrifos)</span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="24/10/2025">
           24/10/2025
