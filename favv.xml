@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2025-11-03T05:44:37.862Z</updated>
+    <updated>2025-11-03T17:43:36.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[« Dried Jasmine » gedroogde jasmijn van het merk Natures best Harvest]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-40</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-40"/>
+        <updated>2025-11-03T17:43:22.600Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-het-favv-40" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-11/03_11_2025_recall_favv.jpg?itok=P22_kGcv" width="451" height="570" alt="« Dried Jasmine » jasmin séché - Natures best Harvest" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van het FAVV</span>
+          <span class="node__initiators">
+        <span class="initiator">« Dried Jasmine » gedroogde jasmijn van het merk Natures best Harvest</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Te hoog gehalte aan residu van gewasbeschermingsmiddelen (Chloorpyrifos)</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="03/11/2025">
+          03/11/2025
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gedroogde fenegriekbladeren van het merk Schani]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-39</id>
@@ -389,49 +432,6 @@
         <span class="initiator">Apple Juice 1L van het merk Pure</span>      </span>
               <span class="node__reasons">
         <span class="reason">Te hoog gehalte aan patuline</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="24/10/2025">
-          24/10/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gebakmix van het merk Arioso]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-aldi-6</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-aldi-6"/>
-        <updated>2025-10-24T17:43:45.142Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-aldi-6" title="Meer lezen over Terugroeping van Aldi" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-10/24_10_2025_recall_Aldi_foto.jpg?itok=Z-sl2FGy" width="426" height="217" alt="gebakmix" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Aldi</span>
-          <span class="node__initiators">
-        <span class="initiator">Gebakmix van het merk Arioso</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van stukjes blauw plastic</span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="24/10/2025">
           24/10/2025
