@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2025-11-04T05:45:34.677Z</updated>
+    <updated>2025-11-04T17:45:18.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Peperkoek verschillende varianten van de merken Les maîtres confiseurs, Bilcobel en Valdiflor]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-41</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-41"/>
+        <updated>2025-11-04T17:45:06.727Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-het-favv-41" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-11/04_11_2025_recall_favv_peperkoek_foto1.jpg?itok=nD8JPZKe" width="334" height="445" alt="peperkoek" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van het FAVV</span>
+          <span class="node__initiators">
+        <span class="initiator">Peperkoek verschillende varianten van de merken Les maîtres confiseurs, Bilcobel en Valdiflor</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Aanwezigheid van stukjes pit - abrikozenpitten</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="04/11/2025">
+          04/11/2025
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[« Dried Jasmine » gedroogde jasmijn van het merk Natures best Harvest]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-40</id>
@@ -392,49 +435,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="27/10/2025">
           27/10/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Juice 1L van het merk Pure]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-hpp-belgium</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-hpp-belgium"/>
-        <updated>2025-10-24T17:43:45.141Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-hpp-belgium" title="Meer lezen over Terugroeping van HPP BELGIUM" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-10/24_10_2025_recall_Appelsap_foto.jpg?itok=sC-yDVLc" width="328" height="435" alt="appelsap" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van HPP BELGIUM</span>
-          <span class="node__initiators">
-        <span class="initiator">Apple Juice 1L van het merk Pure</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan patuline</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="24/10/2025">
-          24/10/2025
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
