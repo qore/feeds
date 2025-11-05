@@ -2,11 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2025-11-05T05:44:47.704Z</updated>
+    <updated>2025-11-05T17:42:54.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Peperkoek verschillende varianten van de merken Les maîtres confiseurs, Bilcobel en Valdiflor]]></title>
+        <title type="html"><![CDATA[Vegetarische Kaas Nuggets van het merk Vivera]]></title>
+        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-albert-heijn-7</id>
+        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-albert-heijn-7"/>
+        <updated>2025-11-05T17:42:40.389Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/waarschuwing-van-albert-heijn-7" title="Meer lezen over Waarschuwing van Albert Heijn" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-11/05_11_2025_WS_AH_foto.png?itok=OYHDNR0G" width="523" height="592" alt="vegetarische kaas nuggets" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
+  <span class="taxonomy-term__title">
+            Waarschuwing
+      </span>
+</span></span>
+        <span class="node__title">Waarschuwing van Albert Heijn</span>
+          <span class="node__initiators">
+        <span class="initiator">Vegetarische Kaas Nuggets van het merk Vivera </span>      </span>
+              <span class="node__reasons">
+        <span class="reason">de verpakking bevat geen Vegetarische Kaas Nuggets, maar Vegetarische Kip Nuggets. Hierdoor staat het allergeen soja niet op het etiket vermeld. </span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="05/11/2025">
+          05/11/2025
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gedroogde paddenstoelen “Dried Shiitake small” 100g]]></title>
+        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-kathmandu</id>
+        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-kathmandu"/>
+        <updated>2025-11-05T17:42:40.391Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/waarschuwing-van-kathmandu" title="Meer lezen over Waarschuwing van Kathmandu" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-11/05_11_2025_WS_Shiitake_foto.jpg?itok=ii9fl0ki" width="305" height="229" alt="paddenstoelen" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
+  <span class="taxonomy-term__title">
+            Waarschuwing
+      </span>
+</span></span>
+        <span class="node__title">Waarschuwing van Kathmandu</span>
+          <span class="node__initiators">
+        <span class="initiator">Gedroogde paddenstoelen “Dried Shiitake small” 100g</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Allergeen dat een intolerantie veroorzaakt en niet vermeld op het etiket: sulfiet </span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="05/11/2025">
+          05/11/2025
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peperkoek verschillende varianten van de merken Les maîtres confiseurs, Bicobel en Valdiflor]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-41</id>
         <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-41"/>
         <updated>2025-11-04T17:45:06.727Z</updated>
@@ -36,7 +122,7 @@
 </span></span>
         <span class="node__title">Terugroeping van het FAVV</span>
           <span class="node__initiators">
-        <span class="initiator">Peperkoek verschillende varianten van de merken Les maîtres confiseurs, Bilcobel en Valdiflor</span>      </span>
+        <span class="initiator">Peperkoek verschillende varianten van de merken Les maîtres confiseurs, Bicobel en Valdiflor</span>      </span>
               <span class="node__reasons">
         <span class="reason">Aanwezigheid van stukjes pit - abrikozenpitten</span>      </span>
         <span class="node__bottom">
@@ -344,92 +430,6 @@
         <span class="node__title">Terugroeping van Colruyt Laagste Prijzen en Comarkt</span>
           <span class="node__initiators">
         <span class="initiator">Guimauves 200g van het merk Boni Selection</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan minerale oliën MOAH</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="27/10/2025">
-          27/10/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guimauves 200g]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-aldi-nv-naam-van-astra-sweets-nv</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-aldi-nv-naam-van-astra-sweets-nv"/>
-        <updated>2025-10-27T17:42:48.390Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-aldi-nv-naam-van-astra-sweets-nv" title="Meer lezen over Terugroeping van ALDI NV in naam van Astra Sweets N.V." class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-10/27_10_2025_recall_Aldi_guimauves_foto.jpg?itok=fz5AKFv8" width="226" height="247" alt="snoep" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van ALDI NV in naam van Astra Sweets N.V.</span>
-          <span class="node__initiators">
-        <span class="initiator">Guimauves 200g</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan minerale oliën MOAH</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="27/10/2025">
-          27/10/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sint Guimauves van het merk Favorina]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-lidl-naam-van-astra-sweets</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-lidl-naam-van-astra-sweets"/>
-        <updated>2025-10-27T17:42:48.392Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-lidl-naam-van-astra-sweets" title="Meer lezen over Terugroeping van Lidl in naam van Astra Sweets" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-10/27_10_2025_recall_Lidl_guimauves_foto.jpg?itok=fJDr2gFl" width="243" height="266" alt="guimauves" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Lidl in naam van Astra Sweets</span>
-          <span class="node__initiators">
-        <span class="initiator">Sint Guimauves van het merk Favorina </span>      </span>
               <span class="node__reasons">
         <span class="reason">Te hoog gehalte aan minerale oliën MOAH</span>      </span>
         <span class="node__bottom">
