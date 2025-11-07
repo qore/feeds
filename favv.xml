@@ -2,9 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2025-11-07T05:44:28.739Z</updated>
+    <updated>2025-11-07T17:44:41.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[kabeljauwfilets en kabeljauwhaas van het merk Jumbo]]></title>
+        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-jumbo-16</id>
+        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-jumbo-16"/>
+        <updated>2025-11-07T17:44:27.667Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/waarschuwing-van-jumbo-16" title="Meer lezen over Waarschuwing van Jumbo" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-11/07_11_2025_WS_Jumbo_foto.jpg?itok=suNl5mcE" width="605" height="340" alt="kabeljauwhaas" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
+  <span class="taxonomy-term__title">
+            Waarschuwing
+      </span>
+</span></span>
+        <span class="node__title">Waarschuwing van Jumbo</span>
+          <span class="node__initiators">
+        <span class="initiator">kabeljauwfilets en kabeljauwhaas van het merk Jumbo </span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Verkeerde houdbaarheidsdata op verpakking, niet consumeren na 13-11-2025</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="07/11/2025">
+          07/11/2025
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palmolie / Kobaolie van het merk GERCHACILE - fles van 500mL, 1L, 5L]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-africa-fresh</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-africa-fresh"/>
+        <updated>2025-11-07T17:44:27.670Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-africa-fresh" title="Meer lezen over Terugroeping van AFRICA FRESH " class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-11/06_11_2025_recall_AFRICAFRESH_foto1.jpg?itok=E386oJs3" width="276" height="540" alt="palmolie" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van AFRICA FRESH </span>
+          <span class="node__initiators">
+        <span class="initiator">Palmolie / Kobaolie van het merk GERCHACILE - fles van 500mL, 1L, 5L</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Aanwezigheid van niet toegelaten kleurstof Sudan IV</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="07/11/2025">
+          07/11/2025
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lekker vrij van gluten spaghetti van het merk Jumbo]]></title>
         <id>https://favv-afsca.be/nl/producten/waarschuwing-van-jumbo-15</id>
@@ -338,98 +424,6 @@
         <span class="node__title">Terugroeping van Le caprice des lieux</span>
           <span class="node__initiators">
         <span class="initiator">Kaas « Crottin De Chavignol » van het merk Dubois Boulay</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van Escherichia coli (STEC)</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="28/10/2025">
-          28/10/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Basmatirijst zilvervlies van het merk Jumbo]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-jumbo-0</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-jumbo-0"/>
-        <updated>2025-10-28T17:44:17.215Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-jumbo-0" title="Meer lezen over Terugroeping van Jumbo" class="node__card-link">
-          <span class="node__update">  <span class="taxonomy-term taxonomy-term--update-tags taxonomy-term--view-mode-teaser taxonomy-term--color--dark-blue">
-  <span class="taxonomy-term__title">
-            Update
-      </span>
-</span>
-</span>
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-10/22_10_2025_recall_jumbo_rijst_foto.png?itok=3i0bDBLI" width="125" height="226" alt="rijst" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Jumbo</span>
-          <span class="node__initiators">
-        <span class="initiator">Basmatirijst zilvervlies van het merk Jumbo </span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan aflatoxines</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="28/10/2025">
-          28/10/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reblochon de Savoie van het merk Delhaize]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-delhaize-21</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-delhaize-21"/>
-        <updated>2025-10-28T17:44:17.217Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-delhaize-21" title="Meer lezen over Terugroeping van Delhaize" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-10/28_10_2025_recall_delhaize_kaas.jpg?itok=LQaZASSt" width="537" height="305" alt="Reblochon de Savoie - Delhaize" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Delhaize</span>
-          <span class="node__initiators">
-        <span class="initiator">Reblochon de Savoie van het merk Delhaize</span>      </span>
               <span class="node__reasons">
         <span class="reason">Mogelijke aanwezigheid van Escherichia coli (STEC)</span>      </span>
         <span class="node__bottom">
