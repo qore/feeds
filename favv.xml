@@ -2,9 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2025-11-18T05:44:26.086Z</updated>
+    <updated>2025-11-18T17:44:32.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ice Tea Sparkling Original van het merk Lipton]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-unilever-0</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-unilever-0"/>
+        <updated>2025-11-18T17:44:18.650Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-unilever-0" title="Meer lezen over Terugroeping van Unilever" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-11/18_11_2025_recall_Lipton-Ice-Tea.jpg?itok=lKcqGk5n" width="921" height="480" alt="Lipton Ice Tea Sparkling Original" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Unilever</span>
+          <span class="node__initiators">
+        <span class="initiator">Ice Tea Sparkling Original van het merk Lipton</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Bevat een energydrank in plaats van Lipton Ice Tea Sparkling Original</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="18/11/2025">
+          18/11/2025
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Granola “Fruits des bois” [bosvruchten] van het merk Eatvice]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-godart-c</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-godart-c"/>
+        <updated>2025-11-18T17:44:18.650Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-godart-c" title="Meer lezen over Terugroeping van Godart C." class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-11/18_11_2025_recall_Granola.jpg?itok=C3I4jFVc" width="318" height="461" alt="Granola « fruits des bois » - Eatvice" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Godart C.</span>
+          <span class="node__initiators">
+        <span class="initiator">Granola “Fruits des bois” [bosvruchten] van het merk Eatvice</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Te hoog gehalte aan ochratoxine</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="18/11/2025">
+          18/11/2025
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NAN EXPERT pro zonder lactose van het merk NAN]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-nestle-belgilux-nv</id>
@@ -349,98 +435,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="12/11/2025">
           12/11/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Miele” Bloemenhoning van het merk Ambrosoli]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-stival-0</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-stival-0"/>
-        <updated>2025-11-10T17:41:33.740Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-stival-0" title="Meer lezen over Terugroeping van Stival" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-11/10_11_2025_recall_Stival%20Miele_foto.jpg?itok=4ZRb_NUM" width="500" height="500" alt="honing" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Stival</span>
-          <span class="node__initiators">
-        <span class="initiator">“Miele” Bloemenhoning van het merk Ambrosoli </span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan Metronidazol</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="10/11/2025">
-          10/11/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Basilicum Roomsaus en Saus voor Vis van het merk Knorr]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-unilever</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-unilever"/>
-        <updated>2025-11-08T17:40:13.507Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-unilever" title="Meer lezen over Terugroeping van Unilever" class="node__card-link">
-          <span class="node__update">  <span class="taxonomy-term taxonomy-term--update-tags taxonomy-term--view-mode-teaser taxonomy-term--color--dark-blue">
-  <span class="taxonomy-term__title">
-            Update
-      </span>
-</span>
-</span>
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-11/08_11_2025_recall_Knorr-saus.jpg?itok=cOH5Z9Sv" width="629" height="626" alt="Sauce à la Crème au Basilic - Knorr" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Unilever</span>
-          <span class="node__initiators">
-        <span class="initiator">Basilicum Roomsaus en Saus voor Vis van het merk Knorr</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van stukjes metaal en rubber</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="08/11/2025">
-          08/11/2025
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
