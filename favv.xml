@@ -2,9 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2025-11-19T05:44:55.011Z</updated>
+    <updated>2025-11-19T17:41:55.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Reblochon AOP van het merk Masson]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-sligro-food-group-belgium-et-sligro-mfs</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-sligro-food-group-belgium-et-sligro-mfs"/>
+        <updated>2025-11-19T17:41:39.929Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-sligro-food-group-belgium-et-sligro-mfs" title="Meer lezen over Terugroeping van Sligro Food Group Belgium et SLIGRO-MFS" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-11/19_11_2025_recall_kaas_sligro.jpg?itok=rfT3si42" width="501" height="503" alt="Reblochon AOP Masson" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Sligro Food Group Belgium et SLIGRO-MFS</span>
+          <span class="node__initiators">
+        <span class="initiator">Reblochon AOP van het merk Masson</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van Escherichia coli (STEC)</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="19/11/2025">
+          19/11/2025
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kipvleugels paprika van het merk Paas Food Industries]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-paas-food-industries-0</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-paas-food-industries-0"/>
+        <updated>2025-11-19T17:41:39.931Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-paas-food-industries-0" title="Meer lezen over Terugroeping van Paas Food Industries" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-11/19_11_2025_recall_kip_Paas-Food-Industries_.jpg?itok=w3DISHb8" width="693" height="450" alt="Ailes de poulet au paprika - Paas Food Industries" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Paas Food Industries</span>
+          <span class="node__initiators">
+        <span class="initiator">Kipvleugels paprika van het merk Paas Food Industries</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van Salmonella</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="19/11/2025">
+          19/11/2025
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ice Tea Sparkling Original van het merk Lipton]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-unilever-0</id>
@@ -349,92 +435,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="13/11/2025">
           13/11/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[verschillende soorten bier van het merk BOCA]]></title>
-        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-brasserie-artisanale-de-la-fabrique</id>
-        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-brasserie-artisanale-de-la-fabrique"/>
-        <updated>2025-11-13T17:44:52.909Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/waarschuwing-van-brasserie-artisanale-de-la-fabrique" title="Meer lezen over Waarschuwing van Brasserie Artisanale de la Fabrique" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-11/13_11_2025_WS_bier_foto.png?itok=sCFY9ZkQ" width="960" height="720" alt="bier" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
-  <span class="taxonomy-term__title">
-            Waarschuwing
-      </span>
-</span></span>
-        <span class="node__title">Waarschuwing van Brasserie Artisanale de la Fabrique</span>
-          <span class="node__initiators">
-        <span class="initiator">verschillende soorten bier van het merk BOCA </span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Allergeen of stof die een intolerantie veroorzaakt niet vermeld op het etiket: tarwe</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="13/11/2025">
-          13/11/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verse artisanale tomatensoep met balletjes van het merk Belsoup]]></title>
-        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-belsoup</id>
-        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-belsoup"/>
-        <updated>2025-11-12T17:43:27.452Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/waarschuwing-van-belsoup" title="Meer lezen over Waarschuwing van Belsoup" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-11/12_11_2025_WS_belsoup_foto.jpg?itok=sYM6nHr0" width="470" height="500" alt="soep" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
-  <span class="taxonomy-term__title">
-            Waarschuwing
-      </span>
-</span></span>
-        <span class="node__title">Waarschuwing van Belsoup</span>
-          <span class="node__initiators">
-        <span class="initiator">Verse artisanale tomatensoep met balletjes van het merk Belsoup </span>      </span>
-              <span class="node__reasons">
-        <span class="reason">tarwe - glutenbevattende granen</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="12/11/2025">
-          12/11/2025
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
