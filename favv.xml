@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2025-11-20T05:44:52.621Z</updated>
+    <updated>2025-11-20T17:43:21.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Groene rozijnen van het merk NIK]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-aar-pamir</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-aar-pamir"/>
+        <updated>2025-11-20T17:43:07.569Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-aar-pamir" title="Meer lezen over Terugroeping van A.A.R. PAMIR" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-11/20_11_2025_recall_Rozijnen.jpg?itok=LmEIB5Fr" width="718" height="582" alt="Raisins verts NIK" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van A.A.R. PAMIR</span>
+          <span class="node__initiators">
+        <span class="initiator">Groene rozijnen van het merk NIK</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Te hoog gehalte aan residu van gewasbeschermingsmiddelen (Chloorpyrifos)</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="20/11/2025">
+          20/11/2025
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reblochon AOP van het merk Masson]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-sligro-food-group-belgium-et-sligro-mfs</id>
@@ -392,49 +435,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="14/11/2025">
           14/11/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reblochon de Savoie]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-colruyt-et-comarche</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-colruyt-et-comarche"/>
-        <updated>2025-11-13T17:44:52.908Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-colruyt-et-comarche" title="Meer lezen over Terugroeping van Colruyt et Comarché" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-11/03_11_2025_recall_kaas_colruyt.jpg?itok=4VwbvuMn" width="590" height="307" alt="Reblochon de Savoie" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Colruyt et Comarché</span>
-          <span class="node__initiators">
-        <span class="initiator">Reblochon de Savoie</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van Escherichia coli (STEC)</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="13/11/2025">
-          13/11/2025
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
