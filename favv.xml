@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2025-11-26T05:44:50.759Z</updated>
+    <updated>2025-11-26T17:43:54.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Koekjes “Gluten free Coconut Digestives” van het merk Damhert Nutrition NV]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-damhert-nutrition-nv-0</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-damhert-nutrition-nv-0"/>
+        <updated>2025-11-26T17:43:40.467Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-damhert-nutrition-nv-0" title="Meer lezen over Terugroeping van Damhert Nutrition NV" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-11/26_11_2025_recall_Koekjes%20Damhert_foto.jpg?itok=Zu632I1z" width="960" height="333" alt="koekjes" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Damhert Nutrition NV</span>
+          <span class="node__initiators">
+        <span class="initiator">Koekjes “Gluten free Coconut Digestives” van het merk Damhert Nutrition NV</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van vreemde deeltjes - metaal</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="26/11/2025">
+          26/11/2025
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Groene selder]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-coccinelle</id>
@@ -383,55 +426,6 @@
         <span class="initiator">NAN EXPERT pro zonder lactose van het merk NAN</span>      </span>
               <span class="node__reasons">
         <span class="reason">Mogelijke aanwezigheid van Cronobacter spp</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="17/11/2025">
-          17/11/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reblochon van het merk Deluxe]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-lidl-naam-van-dupont</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-lidl-naam-van-dupont"/>
-        <updated>2025-11-14T17:44:04.044Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-lidl-naam-van-dupont" title="Meer lezen over Terugroeping van Lidl in naam van Dupont" class="node__card-link">
-          <span class="node__update">  <span class="taxonomy-term taxonomy-term--update-tags taxonomy-term--view-mode-teaser taxonomy-term--color--orange">
-  <span class="taxonomy-term__title">
-            Erratum
-      </span>
-</span>
-</span>
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-11/14_11_2025_recall_kaas_Lidl_foto.jpg?itok=q4aqyZBB" width="148" height="267" alt="kaas" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Lidl in naam van Dupont</span>
-          <span class="node__initiators">
-        <span class="initiator">Reblochon van het merk Deluxe</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van Escherichia coli (STEC)</span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="17/11/2025">
           17/11/2025
