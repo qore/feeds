@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2025-11-27T05:45:45.893Z</updated>
+    <updated>2025-11-27T17:42:09.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
           <span class="node__initiators">
         <span class="initiator">Koekjes “Gluten free Coconut Digestives” van het merk Damhert Nutrition NV</span>      </span>
               <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van vreemde deeltjes - metaal</span>      </span>
+        <span class="reason">Mogelijke aanwezigheid van stukjes metaal</span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="26/11/2025">
           26/11/2025
@@ -167,7 +167,7 @@
           <span class="node__initiators">
         <span class="initiator">“Pindarotsjes” verpakt als “Tricolore sterren” van het merk Moser Roth</span>      </span>
               <span class="node__reasons">
-        <span class="reason">Allergeen dat een intolerantie veroorzaakt niet vermeld op het etiket: Aardnoten - Pinda</span>      </span>
+        <span class="reason">Allergeen niet vermeld op het etiket: Aardnoot (Pinda)</span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="21/11/2025">
           21/11/2025
