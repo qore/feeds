@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2025-12-03T05:45:27.635Z</updated>
+    <updated>2025-12-03T17:47:50.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dubai Tablet en Dubai Chocoladezoenen van het merk Chocolaterie Van Parijs]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-chocolaterie-van-parijs</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-chocolaterie-van-parijs"/>
+        <updated>2025-12-03T17:47:36.535Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-chocolaterie-van-parijs" title="Meer lezen over Terugroeping van Chocolaterie Van Parijs  " class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-12/03_12_2025_recall_Chocolaterie%20Van%20Parijs_foto.png?itok=a9XCZNn2" width="250" height="248" alt="chocolade" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Chocolaterie Van Parijs  </span>
+          <span class="node__initiators">
+        <span class="initiator">Dubai Tablet en Dubai Chocoladezoenen van het merk Chocolaterie Van Parijs</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van stukjes metaal</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="03/12/2025">
+          03/12/2025
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mais puffs “Chrupki Kukurydziane Tofi” van het merk Tygryski]]></title>
         <id>https://favv-afsca.be/nl/producten/waarschuwing-van-biedronka-ii</id>
@@ -381,49 +424,6 @@
         <span class="node__title">Terugroeping van Van Dender Chocolate</span>
           <span class="node__initiators">
         <span class="initiator">Dubai Bar van het merk Van Dender Chocolate</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van stukjes metaal</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="28/11/2025">
-          28/11/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Dubai Pistache chocoladereep” van het merk B-art chocolates]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-b-art-chocolates</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-b-art-chocolates"/>
-        <updated>2025-11-29T05:43:45.099Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-b-art-chocolates" title="Meer lezen over Terugroeping van B-art Chocolates" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-11/28_11_2025_recall_bart-chocolate%20_foto.png?itok=HLceYFn0" width="513" height="513" alt="chocolade" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van B-art Chocolates</span>
-          <span class="node__initiators">
-        <span class="initiator">“Dubai Pistache chocoladereep” van het merk B-art chocolates</span>      </span>
               <span class="node__reasons">
         <span class="reason">Mogelijke aanwezigheid van stukjes metaal</span>      </span>
         <span class="node__bottom">
