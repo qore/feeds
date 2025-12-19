@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2025-12-19T05:47:15.301Z</updated>
+    <updated>2025-12-19T17:41:06.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Natural Chews Varkensoren - 2 stuks]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-intermarche-5</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-intermarche-5"/>
+        <updated>2025-12-19T17:40:49.167Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-intermarche-5" title="Meer lezen over Terugroeping van Intermarché" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-12/19_12_2025_recall_Varkensoren%20ITM_foto.jpg?itok=sMaKzmUc" width="518" height="634" alt="varkensoren" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Intermarché</span>
+          <span class="node__initiators">
+        <span class="initiator">Natural Chews Varkensoren - 2 stuks</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van Salmonella</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="19/12/2025">
+          19/12/2025
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kipsalade van het merk Atelier by Janssen Geudens]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-janssen-geudens-foodservice-0</id>
@@ -386,49 +429,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="12/12/2025">
           12/12/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amandelen Natuur van het merk SALTZ]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-inz-traiding</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-inz-traiding"/>
-        <updated>2025-12-10T17:48:21.744Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-inz-traiding" title="Meer lezen over Terugroeping van I.N.Z. Traiding" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-12/10_12_2025_recall_amadelen_foto_0.png?itok=TWYoPqF-" width="687" height="259" alt="amandelen" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van I.N.Z. Traiding</span>
-          <span class="node__initiators">
-        <span class="initiator">Amandelen Natuur van het merk SALTZ </span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan aflatoxine B1</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="10/12/2025">
-          10/12/2025
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
