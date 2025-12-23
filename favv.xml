@@ -2,9 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2025-12-23T05:49:33.726Z</updated>
+    <updated>2025-12-23T17:46:16.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Kippengyros van het merk SPAR]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-retail-partners-colruyt-group-1</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-retail-partners-colruyt-group-1"/>
+        <updated>2025-12-23T17:46:02.531Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-retail-partners-colruyt-group-1" title="Meer lezen over Terugroeping van Retail Partners Colruyt Group" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-12/23_12_2025_recall_Spar%20Gyros.jpg?itok=MgcIdr3i" width="500" height="318" alt="Gyros de poulet - SPAR" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Retail Partners Colruyt Group</span>
+          <span class="node__initiators">
+        <span class="initiator">Kippengyros van het merk SPAR</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van Salmonella</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="23/12/2025">
+          23/12/2025
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verschillende producten met kip van het merk Paas Food Industries]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-paas-food-industries-2</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-paas-food-industries-2"/>
+        <updated>2025-12-23T17:46:02.532Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-paas-food-industries-2" title="Meer lezen over Terugroeping van Paas Food Industries" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-12/23_12_2025_recall_Paas-Food.jpg?itok=ljcotujR" width="960" height="452" alt="Paas Food Industries" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Paas Food Industries</span>
+          <span class="node__initiators">
+        <span class="initiator">Verschillende producten met kip van het merk Paas Food Industries</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van Salmonella</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="23/12/2025">
+          23/12/2025
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Assortiment van bereide vis van het merk Gabriel]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-gabriel-srl</id>
@@ -343,92 +429,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="17/12/2025">
           17/12/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knolseldersoep met truffel 600g]]></title>
-        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-delhaize-2</id>
-        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-delhaize-2"/>
-        <updated>2025-12-17T17:48:42.696Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/waarschuwing-van-delhaize-2" title="Meer lezen over Waarschuwing van Delhaize" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-12/17_12_2025_WS_Delhaize_foto.jpg?itok=_xi-AaXH" width="204" height="223" alt="soep" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
-  <span class="taxonomy-term__title">
-            Waarschuwing
-      </span>
-</span></span>
-        <span class="node__title">Waarschuwing van Delhaize</span>
-          <span class="node__initiators">
-        <span class="initiator">Knolseldersoep met truffel 600g</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Allergeen “schaaldieren” niet vermeld op de verpakking </span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="17/12/2025">
-          17/12/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verschillende producten met kip van het merk LOUIS]]></title>
-        <id>https://favv-afsca.be/nl/producten/productterugroeping-van-delfood</id>
-        <link href="https://favv-afsca.be/nl/producten/productterugroeping-van-delfood"/>
-        <updated>2025-12-16T17:49:19.596Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/productterugroeping-van-delfood" title="Meer lezen over Productterugroeping van DELFOOD " class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-12/16_12_2025_recall_Delfood_FR_foto1.jpg?itok=Qv9zSwSx" width="325" height="333" alt="salade" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Productterugroeping van DELFOOD </span>
-          <span class="node__initiators">
-        <span class="initiator">Verschillende producten met kip van het merk LOUIS</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van Listeria monocytogenes</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="16/12/2025">
-          16/12/2025
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
