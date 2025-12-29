@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2025-12-29T05:52:41.865Z</updated>
+    <updated>2025-12-29T17:44:48.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bio maïs voor popcorn van het merk Priméal]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-hygiena-nv-0</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-hygiena-nv-0"/>
+        <updated>2025-12-29T17:44:34.232Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-hygiena-nv-0" title="Meer lezen over Terugroeping van HYGIENA NV " class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-12/29_12_2025_recall_Popcorn_foto.jpg?itok=lJ3pBtMh" width="111" height="211" alt="popcorn" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van HYGIENA NV </span>
+          <span class="node__initiators">
+        <span class="initiator">Bio maïs voor popcorn van het merk Priméal</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Te hoog gehalte aan Zearalenon</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="29/12/2025">
+          29/12/2025
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pistache poeder]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-colosseum</id>
@@ -387,49 +430,6 @@
         <span class="node__title">Terugroeping van Retail Partners Colruyt Group</span>
           <span class="node__initiators">
         <span class="initiator">Kippengyros van het merk SPAR</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van Salmonella</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="23/12/2025">
-          23/12/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verschillende producten met kip van het merk Paas Food Industries]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-paas-food-industries-2</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-paas-food-industries-2"/>
-        <updated>2025-12-23T17:46:02.532Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-paas-food-industries-2" title="Meer lezen over Terugroeping van Paas Food Industries" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-12/23_12_2025_recall_Paas-Food.jpg?itok=ljcotujR" width="960" height="452" alt="Paas Food Industries" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Paas Food Industries</span>
-          <span class="node__initiators">
-        <span class="initiator">Verschillende producten met kip van het merk Paas Food Industries</span>      </span>
               <span class="node__reasons">
         <span class="reason">Mogelijke aanwezigheid van Salmonella</span>      </span>
         <span class="node__bottom">
