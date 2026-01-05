@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-01-05T05:58:47.634Z</updated>
+    <updated>2026-01-05T17:48:33.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Verschillende producten zuigelingenvoeding]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-nestle-belgilux-sa</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-nestle-belgilux-sa"/>
+        <updated>2026-01-05T17:48:17.889Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-nestle-belgilux-sa" title="Meer lezen over Terugroeping van Nestlé Belgilux SA" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-01/05_01_2026_recall_Nestle.jpg?itok=B_jlMCFa" width="859" height="398" alt="Nestlé Belgilux SA - NAN" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Nestlé Belgilux SA</span>
+          <span class="node__initiators">
+        <span class="initiator">Verschillende producten zuigelingenvoeding</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van cereulide, geproduceerd door het micro-organisme Bacillus cereus</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="05/01/2026">
+          05/01/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Studentenhaver en Rozijnen van het merk Nature Bio]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-cora-7</id>
@@ -401,49 +444,6 @@
         <span class="initiator">Servies voor kinderen “Dinosauria”, “Unicorn Magic” en “Little Tractors” van het merk Puckator</span>      </span>
               <span class="node__reasons">
         <span class="reason">Onjuiste gebruiksaanwijzing op de verpakking</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="24/12/2025">
-          24/12/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sinaasappelthee van het merk Jumbo]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-jumbo-10</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-jumbo-10"/>
-        <updated>2025-12-24T17:43:35.415Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-jumbo-10" title="Meer lezen over Terugroeping van Jumbo" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-12/24_12_2025_recall_jumbo_foto.png?itok=Yo5GBoVU" width="347" height="214" alt="sinaasappelthee" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Jumbo</span>
-          <span class="node__initiators">
-        <span class="initiator">Sinaasappelthee van het merk Jumbo</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan residu van gewasbeschermingsmiddelen (Chloorpyrifos)</span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="24/12/2025">
           24/12/2025
