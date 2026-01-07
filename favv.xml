@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-01-06T17:48:34.116Z</updated>
+    <updated>2026-01-07T05:50:30.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[rode kidneybonen van de merken Pit&Pit, Origami, HY by Hygiena, EKOPLAZA en DO IT ORGANIC]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-109</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-109"/>
+        <updated>2026-01-07T05:50:14.350Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-het-favv-109" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-01/06_01_2026_recall_FAVV_bonen_foto.png?itok=rk-WswhE" width="364" height="364" alt="rode kidneybonen" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van het FAVV</span>
+          <span class="node__initiators">
+        <span class="initiator">rode kidneybonen van de merken Pit&amp;Pit, Origami, HY by Hygiena, EKOPLAZA en DO IT ORGANIC</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Te hoog gehalte aan residu van gewasbeschermingsmiddelen - Carbofuran</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="06/01/2026">
+          06/01/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ansjovispasta - pasta di acciughe - van het merk Zarotti]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-108</id>
@@ -395,49 +438,6 @@
         <span class="initiator">Aardappelgratin “kruidenbotersmaak” van het merk Jumbo</span>      </span>
               <span class="node__reasons">
         <span class="reason">De verpakking sluit onvoldoende waardoor het product voor de vervaldatum kan bederven</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="24/12/2025">
-          24/12/2025
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[-]]></title>
-        <id>https://favv-afsca.be/nl/producten/mededeling</id>
-        <link href="https://favv-afsca.be/nl/producten/mededeling"/>
-        <updated>2025-12-24T17:43:35.408Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/mededeling" title="Meer lezen over Mededeling" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-12/Communique-NL-24-12-2025.png?itok=EDJpe3w4" width="960" height="593" alt="Communique-NL-24-12-2025.png" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser">
-  <span class="taxonomy-term__title">
-            Andere
-      </span>
-</span></span>
-        <span class="node__title">Mededeling</span>
-          <span class="node__initiators">
-        <span class="initiator">-</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">-</span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="24/12/2025">
           24/12/2025
