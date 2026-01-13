@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-01-12T05:54:04.986Z</updated>
+    <updated>2026-01-13T05:49:56.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Spirelli Arrabiatta van het merk L'Artisane]]></title>
+        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-lartisane-food</id>
+        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-lartisane-food"/>
+        <updated>2026-01-13T05:49:43.367Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/waarschuwing-van-lartisane-food" title="Meer lezen over Waarschuwing van L'Artisane Food" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-01/12_01_2026_WS_L%27ArtisaneFood.jpg?itok=SaWQsvuu" width="847" height="409" alt="Spirelli Arrabiatta (350g) l’Artisane" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
+  <span class="taxonomy-term__title">
+            Waarschuwing
+      </span>
+</span></span>
+        <span class="node__title">Waarschuwing van L'Artisane Food</span>
+          <span class="node__initiators">
+        <span class="initiator">Spirelli Arrabiatta van het merk L'Artisane</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Foutieve houdbaarheidsdatum (TGT)</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="12/01/2026">
+          12/01/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Witte champignons & mix champignons van het merk Daylicious]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-aldi-naam-van-fresh-mushroom-europe-nv</id>
@@ -392,55 +435,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="06/01/2026">
           06/01/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Studentenhaver en Rozijnen van het merk Nature Bio]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-cora-7</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-cora-7"/>
-        <updated>2025-12-25T17:43:16.516Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-cora-7" title="Meer lezen over Terugroeping van Cora" class="node__card-link">
-          <span class="node__update">  <span class="taxonomy-term taxonomy-term--update-tags taxonomy-term--view-mode-teaser taxonomy-term--color--dark-blue">
-  <span class="taxonomy-term__title">
-            Update
-      </span>
-</span>
-</span>
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-12/Update_30_12_2025_recall_cora_thumb.jpg?itok=99WJ2XBK" width="651" height="525" alt="Nature Bio" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Cora</span>
-          <span class="node__initiators">
-        <span class="initiator">Studentenhaver en Rozijnen van het merk Nature Bio</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan ochratoxine A</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="30/12/2025">
-          30/12/2025
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
