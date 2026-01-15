@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-01-15T05:50:41.332Z</updated>
+    <updated>2026-01-15T17:59:25.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“Herbal tea” van het merk Slinmy]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-111</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-111"/>
+        <updated>2026-01-15T17:59:09.581Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-het-favv-111" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-01/15_01_2026_recall_FAVV_Slinmy.jpg?itok=j7dtzTW2" width="343" height="572" alt="Herbal tea - Slinmy" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van het FAVV</span>
+          <span class="node__initiators">
+        <span class="initiator">“Herbal tea” van het merk Slinmy</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Aanwezigheid van een niet-toegelaten stof (Danthron)</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="15/01/2026">
+          15/01/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Balsamico crème - Crema met “Aceto Balsamico di Modena BOB” van het merk Varvello]]></title>
         <id>https://favv-afsca.be/nl/producten/waarschuwing-van-belgian-factory-srl</id>
@@ -386,55 +429,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="08/01/2026">
           08/01/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verschillende producten zuigelingenvoeding]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-nestle-belgilux-sa</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-nestle-belgilux-sa"/>
-        <updated>2026-01-05T17:48:17.889Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-nestle-belgilux-sa" title="Meer lezen over Terugroeping van Nestlé Belgilux SA" class="node__card-link">
-          <span class="node__update">  <span class="taxonomy-term taxonomy-term--update-tags taxonomy-term--view-mode-teaser taxonomy-term--color--dark-blue">
-  <span class="taxonomy-term__title">
-            Update
-      </span>
-</span>
-</span>
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-01/07_01_2026_recall_Nestle.jpg?itok=ZaJTD0Aj" width="859" height="398" alt="NAN Nestlé Belgilux NV" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Nestlé Belgilux SA</span>
-          <span class="node__initiators">
-        <span class="initiator">Verschillende producten zuigelingenvoeding</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van cereulide, geproduceerd door het micro-organisme Bacillus cereus</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="07/01/2026">
-          07/01/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
