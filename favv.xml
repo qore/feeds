@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-01-16T05:50:06.774Z</updated>
+    <updated>2026-01-16T17:49:23.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Varkenswangen Blackwell saus]]></title>
+        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-lunch-garden-collaboratie-met-viangro</id>
+        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-lunch-garden-collaboratie-met-viangro"/>
+        <updated>2026-01-16T17:49:08.496Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/waarschuwing-van-lunch-garden-collaboratie-met-viangro" title="Meer lezen over Waarschuwing van Lunch garden, in collaboratie met Viangro " class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-01/16_01_2026_WS_lunch-garden.jpg?itok=VVQI5nvR" width="401" height="329" alt="Joues de porc sauce Blackwell" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
+  <span class="taxonomy-term__title">
+            Waarschuwing
+      </span>
+</span></span>
+        <span class="node__title">Waarschuwing van Lunch garden, in collaboratie met Viangro </span>
+          <span class="node__initiators">
+        <span class="initiator">Varkenswangen Blackwell saus</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Foutieve houdbaarheidsdatum (TGT)</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="16/01/2026">
+          16/01/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Herbal tea” van het merk Slinmy]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-111</id>
@@ -383,49 +426,6 @@
         <span class="initiator">Pâte de sésame - sesampasta - van het merk Tamneere</span>      </span>
               <span class="node__reasons">
         <span class="reason">Mogelijke aanwezigheid van Salmonella</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="08/01/2026">
-          08/01/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bladerdeeghapjes met kaas]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-delhaize-23</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-delhaize-23"/>
-        <updated>2026-01-08T17:52:41.282Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-delhaize-23" title="Meer lezen over Terugroeping van Delhaize" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-01/08_01_2026_recall_Delhaize_Hapjes_foto.jpg?itok=vItJim65" width="211" height="211" alt="hapjes" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Delhaize</span>
-          <span class="node__initiators">
-        <span class="initiator">Bladerdeeghapjes met kaas</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van stukjes glas</span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="08/01/2026">
           08/01/2026
