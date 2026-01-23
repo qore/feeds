@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-01-23T05:51:55.767Z</updated>
+    <updated>2026-01-23T17:48:41.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Gerookte Noorse zalm van het merk SPAR]]></title>
+        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-retail-partners-colruyt-group</id>
+        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-retail-partners-colruyt-group"/>
+        <updated>2026-01-23T17:48:25.855Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/waarschuwing-van-retail-partners-colruyt-group" title="Meer lezen over Waarschuwing van Retail Partners Colruyt Group" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-01/2026_01_22_WS_SPAR%20gerookte%20Noorse%20zalm_foto.jpg?itok=1bSPcCct" width="435" height="458" alt="zalm" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
+  <span class="taxonomy-term__title">
+            Waarschuwing
+      </span>
+</span></span>
+        <span class="node__title">Waarschuwing van Retail Partners Colruyt Group</span>
+          <span class="node__initiators">
+        <span class="initiator">Gerookte Noorse zalm van het merk SPAR</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Foutieve houdbaarheidsdatum TGT op de verpakking </span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="23/01/2026">
+          23/01/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gemalen komijn « Jeera PWD » van het merk Apna Baba]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-112</id>
@@ -383,49 +426,6 @@
         <span class="initiator">Gevogeltevink van het merk Paas Food Industries</span>      </span>
               <span class="node__reasons">
         <span class="reason">Mogelijke aanwezigheid van Salmonella</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="13/01/2026">
-          13/01/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gesneden champignons van merken Fresh Mushroom Europe, Boni, Carrefour The Market & Daylicious]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-fresh-mushroom-europe-nv</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-fresh-mushroom-europe-nv"/>
-        <updated>2026-01-13T17:52:38.042Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-fresh-mushroom-europe-nv" title="Meer lezen over Terugroeping van Fresh Mushroom Europe NV" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-01/13_01_2026_recall_FME.jpg?itok=5cKTnuj0" width="713" height="287" alt="Champignons coupés - Fresh Mushroom Europe, Boni, Carrefour The Market " class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Fresh Mushroom Europe NV</span>
-          <span class="node__initiators">
-        <span class="initiator">Gesneden champignons van merken Fresh Mushroom Europe, Boni, Carrefour The Market &amp; Daylicious</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van stukjes glas of harde plastiek</span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="13/01/2026">
           13/01/2026
