@@ -2,9 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-01-26T05:56:14.853Z</updated>
+    <updated>2026-01-26T17:54:27.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Pannenkoeken van het merk Boni Selection]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-colruyt-en-comarche</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-colruyt-en-comarche"/>
+        <updated>2026-01-26T17:54:13.290Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-colruyt-en-comarche" title="Meer lezen over Terugroeping van Colruyt en Comarché" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-01/2026_01_26_recall_Colruyt_pannenkoek_Listeria.jpg?itok=gysv_Qku" width="439" height="423" alt="Crêpes de la marque Boni Selection" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Colruyt en Comarché</span>
+          <span class="node__initiators">
+        <span class="initiator">Pannenkoeken van het merk Boni Selection</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Aanwezigheid van Listeria monocytogenes</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="26/01/2026">
+          26/01/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pannenkoeken uit Brugge BIO]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-delhaize-24</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-delhaize-24"/>
+        <updated>2026-01-24T05:46:36.577Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-delhaize-24" title="Meer lezen over Terugroeping van Delhaize" class="node__card-link">
+          <span class="node__update">  <span class="taxonomy-term taxonomy-term--update-tags taxonomy-term--view-mode-teaser taxonomy-term--color--dark-blue">
+  <span class="taxonomy-term__title">
+            Update
+      </span>
+</span>
+</span>
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-01/2026_01_22_recall_Delhaize_pannenkoek_Listeria_foto.jpg?itok=eVXq-BNj" width="183" height="179" alt="pannenkoek" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Delhaize</span>
+          <span class="node__initiators">
+        <span class="initiator">Pannenkoeken uit Brugge BIO</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van Listeria monocytogenes</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="26/01/2026">
+          26/01/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zuigelingenvoeding “Profutura 1” van het merk Nutrilon]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-danone</id>
@@ -123,49 +215,6 @@
         <span class="node__title">Terugroeping van Carrefour</span>
           <span class="node__initiators">
         <span class="initiator">“Pannenkoeken Warm of Koud” van het merk Carrefour BIO </span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van Listeria monocytogenes</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="23/01/2026">
-          23/01/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pannenkoeken uit Brugge BIO]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-delhaize-24</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-delhaize-24"/>
-        <updated>2026-01-24T05:46:36.577Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-delhaize-24" title="Meer lezen over Terugroeping van Delhaize" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-01/2026_01_22_recall_Delhaize_pannenkoek_Listeria_foto.jpg?itok=eVXq-BNj" width="183" height="179" alt="pannenkoek" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Delhaize</span>
-          <span class="node__initiators">
-        <span class="initiator">Pannenkoeken uit Brugge BIO</span>      </span>
               <span class="node__reasons">
         <span class="reason">Mogelijke aanwezigheid van Listeria monocytogenes</span>      </span>
         <span class="node__bottom">
@@ -386,49 +435,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="21/01/2026">
           21/01/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BURRATA van het merk Delhaize]]></title>
-        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-delhaize-4</id>
-        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-delhaize-4"/>
-        <updated>2026-01-20T17:55:07.838Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/waarschuwing-van-delhaize-4" title="Meer lezen over Waarschuwing van Delhaize" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-01/20_01_2026_WS_burrata_foto.jpg?itok=TL_ujhCo" width="156" height="156" alt="burrata" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
-  <span class="taxonomy-term__title">
-            Waarschuwing
-      </span>
-</span></span>
-        <span class="node__title">Waarschuwing van Delhaize</span>
-          <span class="node__initiators">
-        <span class="initiator">BURRATA van het merk Delhaize</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Foutieve houdbaarheidsdatum, niet consumeren na 27/01/2026</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="20/01/2026">
-          20/01/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
