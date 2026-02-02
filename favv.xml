@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-02-02T06:40:21.118Z</updated>
+    <updated>2026-02-02T18:06:19.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
     <entry>
@@ -362,12 +362,18 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zuigelingenmelk Optima 1 van het merk Babybio]]></title>
+        <title type="html"><![CDATA[Zuigelingenmelk Optima 1 van het merk Babybio en zuigelingenmelk Caprea 1 van het merk BABYBIO]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-vitagermine</id>
         <link href="https://favv-afsca.be/nl/producten/terugroeping-van-vitagermine"/>
         <updated>2026-01-27T17:54:28.324Z</updated>
         <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
   <a href="/nl/producten/terugroeping-van-vitagermine" title="Meer lezen over Terugroeping van Vitagermine" class="node__card-link">
+          <span class="node__update">  <span class="taxonomy-term taxonomy-term--update-tags taxonomy-term--view-mode-teaser taxonomy-term--color--dark-blue">
+  <span class="taxonomy-term__title">
+            Update
+      </span>
+</span>
+</span>
               <span class="node__image"><div class="media media--type-image media--view-mode-default">
   
 
@@ -392,7 +398,7 @@
 </span></span>
         <span class="node__title">Terugroeping van Vitagermine</span>
           <span class="node__initiators">
-        <span class="initiator">Zuigelingenmelk Optima 1 van het merk Babybio</span>      </span>
+        <span class="initiator">Zuigelingenmelk Optima 1 van het merk Babybio en zuigelingenmelk Caprea 1 van het merk BABYBIO</span>      </span>
               <span class="node__reasons">
         <span class="reason">Mogelijke aanwezigheid van cereulide</span>      </span>
         <span class="node__bottom">
