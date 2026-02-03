@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-02-02T18:06:19.125Z</updated>
+    <updated>2026-02-03T06:11:34.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Verschillende producten zuigelingenvoeding]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-nestle-belgilux-sa</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-nestle-belgilux-sa"/>
+        <updated>2026-02-03T06:11:19.117Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-nestle-belgilux-sa" title="Meer lezen over Terugroeping van Nestlé Belgilux SA" class="node__card-link">
+          <span class="node__update">  <span class="taxonomy-term taxonomy-term--update-tags taxonomy-term--view-mode-teaser taxonomy-term--color--dark-blue">
+  <span class="taxonomy-term__title">
+            Update
+      </span>
+</span>
+</span>
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-01/07_01_2026_recall_Nestle.jpg?itok=ZaJTD0Aj" width="859" height="398" alt="NAN Nestlé Belgilux NV" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Nestlé Belgilux SA</span>
+          <span class="node__initiators">
+        <span class="initiator">Verschillende producten zuigelingenvoeding</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van cereulide, geproduceerd door het micro-organisme Bacillus cereus</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="02/02/2026">
+          02/02/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chocoladebroodjes van het merk Boni Selection]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-colruyt-3</id>
@@ -401,49 +450,6 @@
         <span class="initiator">Zuigelingenmelk Optima 1 van het merk Babybio en zuigelingenmelk Caprea 1 van het merk BABYBIO</span>      </span>
               <span class="node__reasons">
         <span class="reason">Mogelijke aanwezigheid van cereulide</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="27/01/2026">
-          27/01/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cajun kruidenmix van het merk Duqqa!]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-natuurhuis</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-natuurhuis"/>
-        <updated>2026-01-27T17:54:28.325Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-het-natuurhuis" title="Meer lezen over Terugroeping van Het Natuurhuis" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-01/2026_01_27_recall_cajun_foto.png?itok=fKB7ZP4F" width="310" height="163" alt="kruidenmix" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Het Natuurhuis</span>
-          <span class="node__initiators">
-        <span class="initiator">Cajun kruidenmix van het merk Duqqa!</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van stukjes glas</span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="27/01/2026">
           27/01/2026
