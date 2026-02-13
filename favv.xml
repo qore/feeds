@@ -2,9 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-02-13T06:36:55.911Z</updated>
+    <updated>2026-02-13T18:05:11.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Rundscarpaccio van de merken Norenca en Spar]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-norenca-nv-2</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-norenca-nv-2"/>
+        <updated>2026-02-13T18:04:58.404Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-norenca-nv-2" title="Meer lezen over Terugroeping van Norenca N.V." class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-02/2026_02_13_recall_Norenca_Carpaccio.jpg?itok=Pb4nIczm" width="960" height="360" alt="Carpaccio de bœuf" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Norenca N.V.</span>
+          <span class="node__initiators">
+        <span class="initiator">Rundscarpaccio van de merken Norenca en Spar</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van Salmonella</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="13/02/2026">
+          13/02/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beluga linzen bio van het merk Pit & Pit]]></title>
+        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-pit-pit-bv</id>
+        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-pit-pit-bv"/>
+        <updated>2026-02-13T18:04:58.407Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/waarschuwing-van-pit-pit-bv" title="Meer lezen over Waarschuwing van Pit &amp; Pit bv" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-02/2026_02_13_WS_Lentiles_Beluga.jpg?itok=cxgm0x9f" width="841" height="552" alt="Beluga linzen bio - Pit &amp; Pit" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
+  <span class="taxonomy-term__title">
+            Waarschuwing
+      </span>
+</span></span>
+        <span class="node__title">Waarschuwing van Pit &amp; Pit bv</span>
+          <span class="node__initiators">
+        <span class="initiator">Beluga linzen bio van het merk Pit &amp; Pit</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Allergeen niet vermeld op het etiket: Gluten</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="13/02/2026">
+          13/02/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stracciatella-ijs van het merk Jeanpierre]]></title>
         <id>https://favv-afsca.be/nl/producten/waarschuwing-van-patisserie-jeanpierre</id>
@@ -355,92 +441,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="04/02/2026">
           04/02/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Girasoli met kaas” van het merk Delhaize]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-delhaize-25</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-delhaize-25"/>
-        <updated>2026-02-05T18:11:34.105Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-delhaize-25" title="Meer lezen over Terugroeping van Delhaize" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-02/2026_02_03_recall_Delhaize_Girasoli_foto.jpg?itok=NQQ8JT9T" width="149" height="148" alt="girasoli" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Delhaize</span>
-          <span class="node__initiators">
-        <span class="initiator">“Girasoli met kaas” van het merk Delhaize</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van metaalfragmenten</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="03/02/2026">
-          03/02/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASIA Lemon/Mango/Dragonfruit Tea Refreshers en ASIA Strawberry Tea Refreshers Pink Drink van het merk Starbucks]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-fptc-bv</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-fptc-bv"/>
-        <updated>2026-02-05T18:11:34.106Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-fptc-bv" title="Meer lezen over Terugroeping van FPTC BV" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-02/2026_02_03_recall_FPTC%20BV_foto1.jpg?itok=6atPg31K" width="630" height="587" alt="pink drink" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van FPTC BV</span>
-          <span class="node__initiators">
-        <span class="initiator">ASIA Lemon/Mango/Dragonfruit Tea Refreshers en ASIA Strawberry Tea Refreshers Pink Drink van het merk Starbucks</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan propyleenglycol E1520</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="03/02/2026">
-          03/02/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
