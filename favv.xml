@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-02-17T18:30:00.070Z</updated>
+    <updated>2026-02-18T18:08:39.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[instant noedels “Instant Noodles Spicy Chicken Flavour” van het merk Ever Roka]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-118</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-118"/>
+        <updated>2026-02-18T18:08:24.971Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-het-favv-118" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-02/2026_02_18_recall_FAVV_noodles_foto.png?itok=3n0IvYRA" width="288" height="436" alt="noedels" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van het FAVV</span>
+          <span class="node__initiators">
+        <span class="initiator">instant noedels “Instant Noodles Spicy Chicken Flavour” van het merk Ever Roka</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Te hoog gehalte aan minerale oliën MOSH &amp; MOAH</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="18/02/2026">
+          18/02/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SuperSprouts 100% raw & sprouted seeds BIO van het merk Biotona]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-keypharm-nv</id>
@@ -386,49 +429,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="12/02/2026">
           12/02/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[« Kakao » [cacaopoeder] van het merk Ciloglu]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-117</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-117"/>
-        <updated>2026-02-11T18:34:19.450Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-het-favv-117" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-02/2026_02_11_recall_AFSCA_cacaopoeder.jpg?itok=xGapzOfX" width="321" height="599" alt="Kakao - Ciloglu" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van het FAVV</span>
-          <span class="node__initiators">
-        <span class="initiator">« Kakao » [cacaopoeder] van het merk Ciloglu</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan ochratoxine A</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="11/02/2026">
-          11/02/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
