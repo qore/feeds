@@ -2,9 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-02-19T06:38:06.145Z</updated>
+    <updated>2026-02-19T18:12:28.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bio gemalen amandelen van het merk Hygiena]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-hygiena-nv-1</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-hygiena-nv-1"/>
+        <updated>2026-02-19T18:12:12.872Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-hygiena-nv-1" title="Meer lezen over Terugroeping van HYGIENA NV " class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-02/2026_02_19_recall_Hygiena_foto.jpg?itok=LoBdCutt" width="138" height="188" alt="amandelen" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van HYGIENA NV </span>
+          <span class="node__initiators">
+        <span class="initiator">Bio gemalen amandelen van het merk Hygiena</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Te hoog gehalte aan aflatoxines</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="19/02/2026">
+          19/02/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dubai Mochi Pistachio Kunafa flavor [Japanese Style] van het merk Qlove]]></title>
+        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-yatta-bv</id>
+        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-yatta-bv"/>
+        <updated>2026-02-19T18:12:12.873Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/waarschuwing-van-yatta-bv" title="Meer lezen over Waarschuwing van Yatta BV" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-02/2026_02_19_WS_Yatta-BV.jpg?itok=TGocQNPr" width="886" height="445" alt="Dubai Mochi Pistachio Kunafa flavor (Japanese Style)" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
+  <span class="taxonomy-term__title">
+            Waarschuwing
+      </span>
+</span></span>
+        <span class="node__title">Waarschuwing van Yatta BV</span>
+          <span class="node__initiators">
+        <span class="initiator">Dubai Mochi Pistachio Kunafa flavor [Japanese Style] van het merk Qlove</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Allergeen niet vermeld op het etiket: Tarwe (Gluten)</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="19/02/2026">
+          19/02/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[instant noedels “Instant Noodles Spicy Chicken Flavour” van het merk Ever Roka]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-118</id>
@@ -343,92 +429,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="13/02/2026">
           13/02/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stracciatella-ijs van het merk Jeanpierre]]></title>
-        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-patisserie-jeanpierre</id>
-        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-patisserie-jeanpierre"/>
-        <updated>2026-02-12T18:31:08.600Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/waarschuwing-van-patisserie-jeanpierre" title="Meer lezen over Waarschuwing van Pâtisserie Jeanpierre" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-02/2026_02_12_WS_Patisserie-Jeanpierre.jpg?itok=7ASe2Ci3" width="492" height="657" alt="Glace Stracciatella de la marque Jeanpierre" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
-  <span class="taxonomy-term__title">
-            Waarschuwing
-      </span>
-</span></span>
-        <span class="node__title">Waarschuwing van Pâtisserie Jeanpierre</span>
-          <span class="node__initiators">
-        <span class="initiator">Stracciatella-ijs van het merk Jeanpierre</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Allergeen niet vermeld op het etiket: Soja</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="12/02/2026">
-          12/02/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Studentenhaver van het merk Jumbo]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-jumbo-11</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-jumbo-11"/>
-        <updated>2026-02-12T18:31:08.600Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-jumbo-11" title="Meer lezen over Terugroeping van Jumbo" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-02/2026_02_12_recall_Jumbo_mendiants.jpg?itok=TzJjvhJX" width="306" height="441" alt="« studentenhaver » - Jumbo" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Jumbo</span>
-          <span class="node__initiators">
-        <span class="initiator">Studentenhaver van het merk Jumbo</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan residu van gewasbeschermingsmiddelen (Chloorpyrifos)</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="12/02/2026">
-          12/02/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
