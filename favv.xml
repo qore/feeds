@@ -2,9 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-02-25T06:41:06.714Z</updated>
+    <updated>2026-02-26T06:34:57.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Kerrie India van het merk Duqqa!]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-natuurhuis-0</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-natuurhuis-0"/>
+        <updated>2026-02-26T06:34:42.645Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-het-natuurhuis-0" title="Meer lezen over Terugroeping van Het Natuurhuis" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-02/2026_02_25_recall_Natuurhuis_foto.jpg?itok=ELp1N7Us" width="225" height="225" alt="Kerrie" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Het Natuurhuis</span>
+          <span class="node__initiators">
+        <span class="initiator">Kerrie India van het merk Duqqa!</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van stukjes glas</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="25/02/2026">
+          25/02/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verse kaas - 3,2% vet - van het merk Carrefour BIO]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-carrefour-27</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-carrefour-27"/>
+        <updated>2026-02-26T06:34:42.648Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-carrefour-27" title="Meer lezen over Terugroeping van Carrefour " class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-02/2026_02_25_recall_Carrefour_foto.jpg?itok=8IqUQdiQ" width="232" height="232" alt="verse kaas" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Carrefour </span>
+          <span class="node__initiators">
+        <span class="initiator">Verse kaas - 3,2% vet - van het merk Carrefour BIO</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Verkeerde houdbaarheidsdatum TGT op het etiket</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="25/02/2026">
+          25/02/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Kipvleugels paprika” van het merk Paas Food Industries]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-paas-food-industries-5</id>
@@ -338,92 +424,6 @@
         <span class="node__title">Terugroeping van KeyPharm nv</span>
           <span class="node__initiators">
         <span class="initiator">SuperSprouts 100% raw &amp; sprouted seeds BIO van het merk Biotona</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van Salmonella</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="17/02/2026">
-          17/02/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vegan Girasoli Spinazie 250g]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-delhaize-26</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-delhaize-26"/>
-        <updated>2026-02-17T18:29:45.646Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-delhaize-26" title="Meer lezen over Terugroeping van Delhaize" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-02/2026_02_17_recall_Delhaize%20pasta_foto.jpg?itok=yzUooH-Z" width="179" height="178" alt="pasta" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Delhaize</span>
-          <span class="node__initiators">
-        <span class="initiator">Vegan Girasoli Spinazie 250g</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van metaalfragmenten</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="17/02/2026">
-          17/02/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gekiemde zonnebloempittenbio en Granola bites met cacao bio van het merk Pit & Pit]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-pit-pit-4</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-pit-pit-4"/>
-        <updated>2026-02-17T18:29:45.647Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-pit-pit-4" title="Meer lezen over Terugroeping van Pit &amp; Pit" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-02/2026_02_17_recall_pitpit_foto1.jpg?itok=X4lMdKZs" width="596" height="559" alt="zonnebloempitten" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Pit &amp; Pit</span>
-          <span class="node__initiators">
-        <span class="initiator">Gekiemde zonnebloempittenbio en Granola bites met cacao bio van het merk Pit &amp; Pit</span>      </span>
               <span class="node__reasons">
         <span class="reason">Mogelijke aanwezigheid van Salmonella</span>      </span>
         <span class="node__bottom">
