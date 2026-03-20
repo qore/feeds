@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-03-20T06:12:10.556Z</updated>
+    <updated>2026-03-20T18:02:59.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Glazen met verschillende prints van het merk Flying Tiger Copenhagen]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-flying-tiger-copenhagen-1</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-flying-tiger-copenhagen-1"/>
+        <updated>2026-03-20T18:02:47.398Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-flying-tiger-copenhagen-1" title="Meer lezen over Terugroeping van Flying Tiger Copenhagen" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-03/glazen.png?itok=KsX_4ktU" width="605" height="193" alt="glazen" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Flying Tiger Copenhagen</span>
+          <span class="node__initiators">
+        <span class="initiator">Glazen met verschillende prints van het merk Flying Tiger Copenhagen</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke migratie van lood en cadmium</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="20/03/2026">
+          20/03/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Biologische kipfilets - met en zonder vel - van het merk COQ DES PRES]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-ardenne-volaille</id>
@@ -392,49 +435,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="05/03/2026">
           05/03/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kruidenboter van het merk Albert Heijn]]></title>
-        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-albert-heijn-8</id>
-        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-albert-heijn-8"/>
-        <updated>2026-03-04T18:04:42.685Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/waarschuwing-van-albert-heijn-8" title="Meer lezen over Waarschuwing van Albert Heijn" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-03/2026_03_04_WS_AH_foto.png?itok=HbbaX5X_" width="457" height="457" alt="Kruidenboter " class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
-  <span class="taxonomy-term__title">
-            Waarschuwing
-      </span>
-</span></span>
-        <span class="node__title">Waarschuwing van Albert Heijn</span>
-          <span class="node__initiators">
-        <span class="initiator">Kruidenboter van het merk Albert Heijn</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Allergenen niet vermeld op het etiket: selderij</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="04/03/2026">
-          04/03/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
