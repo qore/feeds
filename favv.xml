@@ -2,9 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-03-30T18:32:19.621Z</updated>
+    <updated>2026-03-31T18:12:46.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Natuurbuchette van het merk De Volle Maan]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-geitenboerderij-de-volle-maan</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-geitenboerderij-de-volle-maan"/>
+        <updated>2026-03-31T18:12:33.909Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-geitenboerderij-de-volle-maan" title="Meer lezen over Terugroeping van Geitenboerderij De Volle Maan" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-03/2026_03_31_recall_De%20volle%20maan_foto.jpg?itok=5xIHeKMm" width="422" height="422" alt="geitenkaas" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Geitenboerderij De Volle Maan</span>
+          <span class="node__initiators">
+        <span class="initiator">Natuurbuchette van het merk De Volle Maan</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van Listeria monocytogenes</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="31/03/2026">
+          31/03/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tofu - Pâte de soja frit - van het merk Komy]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-122</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-122"/>
+        <updated>2026-03-31T18:12:33.911Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-het-favv-122" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-03/2026_03_31_recall_FAVV_Tofu_Komy_foto.jpg?itok=PoqWr0oD" width="144" height="253" alt="tofu" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van het FAVV</span>
+          <span class="node__initiators">
+        <span class="initiator">tofu - Pâte de soja frit - van het merk Komy</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Hygiëneproblemen bij de producent</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="31/03/2026">
+          31/03/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[kip curry salade van het merk Atelier by Janssen Geudens]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-janssen-geudens-foodservice-1</id>
@@ -343,98 +429,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="13/03/2026">
           13/03/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gele curry met aubergines en kokosmelk “Curry Jaune aux aubergines et lait de coco” van het merk Prosain]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-biofresh-belgium-3</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-biofresh-belgium-3"/>
-        <updated>2026-03-13T18:01:26.783Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-biofresh-belgium-3" title="Meer lezen over Terugroeping van Biofresh Belgium" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-03/2026_03_13_recall_Biofresh_foto.jpg?itok=D-1q_ZLc" width="105" height="199" alt="curry" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Biofresh Belgium</span>
-          <span class="node__initiators">
-        <span class="initiator">gele curry met aubergines en kokosmelk “Curry Jaune aux aubergines et lait de coco” van het merk Prosain</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van stukjes glas</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="13/03/2026">
-          13/03/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[instant noedels “Instant Noodles Spicy Chicken Flavour” van het merk Ever Roka]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-118</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-118"/>
-        <updated>2026-03-13T06:09:31.476Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-het-favv-118" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
-          <span class="node__update">  <span class="taxonomy-term taxonomy-term--update-tags taxonomy-term--view-mode-teaser taxonomy-term--color--dark-blue">
-  <span class="taxonomy-term__title">
-            Update
-      </span>
-</span>
-</span>
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-02/2026_02_18_recall_FAVV_noodles_foto.png?itok=3n0IvYRA" width="288" height="436" alt="noedels" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van het FAVV</span>
-          <span class="node__initiators">
-        <span class="initiator">instant noedels “Instant Noodles Spicy Chicken Flavour” van het merk Ever Roka</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan minerale oliën MOSH &amp; MOAH</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="12/03/2026">
-          12/03/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
