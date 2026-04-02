@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-04-01T07:01:05.136Z</updated>
+    <updated>2026-04-02T06:50:37.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sinaasappeljam van het merk Alain Millat]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-rob-gourmets-market-0</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-rob-gourmets-market-0"/>
+        <updated>2026-04-02T06:50:24.470Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-rob-gourmets-market-0" title="Meer lezen over Terugroeping van Rob The Gourmet's Market" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-04/2026_04_01_recall_marmelade.png?itok=4YMlfGjc" width="178" height="282" alt="Marmelade Orange - Alain Millat" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Rob The Gourmet's Market</span>
+          <span class="node__initiators">
+        <span class="initiator">Sinaasappeljam van het merk Alain Millat</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van stukjes glas</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="01/04/2026">
+          01/04/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Natuurbuchette van het merk De Volle Maan]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-geitenboerderij-de-volle-maan</id>
@@ -383,49 +426,6 @@
         <span class="initiator">biologische ham “pays vert” van het merk Coprosain </span>      </span>
               <span class="node__reasons">
         <span class="reason">Mogelijke aanwezigheid van Listeria monocytogenes</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="13/03/2026">
-          13/03/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Picodon d'Ardèche” van het merk Fromagerie du Vivarais]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-rob-gourmets-market</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-rob-gourmets-market"/>
-        <updated>2026-03-13T18:01:26.782Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-rob-gourmets-market" title="Meer lezen over Terugroeping van Rob The Gourmets’ Market " class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-03/2026_03_13_recall_Rob_foto.jpg?itok=4bz1MHox" width="198" height="148" alt="“Picodon d'Ardèche” van het merk Fromagerie du Vivarais" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Rob The Gourmets’ Market </span>
-          <span class="node__initiators">
-        <span class="initiator">“Picodon d'Ardèche” van het merk Fromagerie du Vivarais</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van Escherichia coli (STEC)</span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="13/03/2026">
           13/03/2026
