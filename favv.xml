@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-04-10T07:07:30.662Z</updated>
+    <updated>2026-04-10T18:09:23.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sella Basmati rijst van het merk Al-Shalan]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-113</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-113"/>
+        <updated>2026-04-10T18:09:10.170Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-het-favv-113" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
+          <span class="node__update">  <span class="taxonomy-term taxonomy-term--update-tags taxonomy-term--view-mode-teaser taxonomy-term--color--dark-blue">
+  <span class="taxonomy-term__title">
+            Update
+      </span>
+</span>
+</span>
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-01/26_01_2026_recall_Rijst_foto.jpg?itok=dQvIynsG" width="282" height="331" alt="rijst" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van het FAVV</span>
+          <span class="node__initiators">
+        <span class="initiator">Sella Basmati rijst van het merk Al-Shalan</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Te hoog gehalte aan minerale oliën MOSH &amp; MOAH</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="10/04/2026">
+          10/04/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Préparé van het merk Spar]]></title>
         <id>https://favv-afsca.be/nl/producten/waarschuwing-van-retail-partners-colruyt-group-0</id>
@@ -386,49 +435,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="19/03/2026">
           19/03/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feunegriek bladeren van het merk MDH]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-121</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-121"/>
-        <updated>2026-03-17T06:40:27.274Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-het-favv-121" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-03/2026_03_16_recall_AFSCA_Fenugrec_foto.jpg?itok=MByhUWOh" width="373" height="523" alt="Feunegriek" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van het FAVV</span>
-          <span class="node__initiators">
-        <span class="initiator">Feunegriek bladeren van het merk MDH</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan residu van gewasbeschermingsmiddelen (Chloorpyrifos)</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="16/03/2026">
-          16/03/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
