@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-04-14T07:08:35.687Z</updated>
+    <updated>2026-04-15T07:09:32.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BRILLATS SAVARIN AFFINES IGP [kaas] van het merk Fromagerie Delin]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-chasal</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-chasal"/>
+        <updated>2026-04-15T07:09:19.504Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-chasal" title="Meer lezen over Terugroeping van CHASAL" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-04/2026_04_14_recall_kaas.jpg?itok=RIAUceKM" width="426" height="452" alt="Fromagerie Delin" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van CHASAL</span>
+          <span class="node__initiators">
+        <span class="initiator">BRILLATS SAVARIN AFFINES IGP [kaas] van het merk Fromagerie Delin</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van Listeria monocytogenes</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="14/04/2026">
+          14/04/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sella Basmati rijst van het merk Al-Shalan]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-113</id>
@@ -392,49 +435,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="20/03/2026">
           20/03/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biologische kipfilets - met en zonder vel - van het merk COQ DES PRES]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-ardenne-volaille</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-ardenne-volaille"/>
-        <updated>2026-03-19T18:09:35.979Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-ardenne-volaille" title="Meer lezen over Terugroeping van Ardenne Volaille" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-03/2026_03_19_recall_Ardenne%20Volaille_foto1.jpg?itok=9q1Ra8lP" width="299" height="397" alt="gevogelte" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Ardenne Volaille</span>
-          <span class="node__initiators">
-        <span class="initiator">Biologische kipfilets - met en zonder vel - van het merk COQ DES PRES</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van metaalfragmenten</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="19/03/2026">
-          19/03/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
