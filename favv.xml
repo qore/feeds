@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-04-16T07:10:26.018Z</updated>
+    <updated>2026-04-16T18:44:35.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bereidingen op basis van kippengehakt van het merk Atelier by Janssen Geudens]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-janssen-geudens-foodservice-3</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-janssen-geudens-foodservice-3"/>
+        <updated>2026-04-16T18:44:21.773Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-janssen-geudens-foodservice-3" title="Meer lezen over Terugroeping van Janssen Geudens Foodservice" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-04/2026_04_16_recall_Janssen-Geudens-foodservice_kippengehakt.jpg?itok=BKWUQreJ" width="960" height="955" alt="Atelier by Janssen Geudens" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Janssen Geudens Foodservice</span>
+          <span class="node__initiators">
+        <span class="initiator">Bereidingen op basis van kippengehakt van het merk Atelier by Janssen Geudens</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van Salmonella</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="16/04/2026">
+          16/04/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kip zumba salade van het merk Atelier by Janssen Geudens]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-janssen-geudens-foodservice-2</id>
@@ -392,49 +435,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="27/03/2026">
           27/03/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gorgonzola]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-intermarche-7</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-intermarche-7"/>
-        <updated>2026-03-24T18:31:57.054Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-intermarche-7" title="Meer lezen over Terugroeping van Intermarché" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-03/2026_03_24_recall_Gorgonzola_foto.jpg?itok=w-lXUtNR" width="188" height="112" alt="kaas" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Intermarché</span>
-          <span class="node__initiators">
-        <span class="initiator">Gorgonzola</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van Listeria monocytogenes</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="24/03/2026">
-          24/03/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
