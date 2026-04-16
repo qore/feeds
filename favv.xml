@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-04-15T07:09:32.533Z</updated>
+    <updated>2026-04-16T07:10:26.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Kip zumba salade van het merk Atelier by Janssen Geudens]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-janssen-geudens-foodservice-2</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-janssen-geudens-foodservice-2"/>
+        <updated>2026-04-16T07:10:13.945Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-janssen-geudens-foodservice-2" title="Meer lezen over Terugroeping van Janssen Geudens foodservice" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-04/2026_04_15_recall_kipsalade_foto.jpg?itok=ZUiG2Jsm" width="262" height="205" alt="kipsalade" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Janssen Geudens foodservice</span>
+          <span class="node__initiators">
+        <span class="initiator">Kip zumba salade van het merk Atelier by Janssen Geudens</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van Listeria</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="15/04/2026">
+          15/04/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BRILLATS SAVARIN AFFINES IGP [kaas] van het merk Fromagerie Delin]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-chasal</id>
@@ -392,49 +435,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="24/03/2026">
           24/03/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glazen met verschillende prints van het merk Flying Tiger Copenhagen]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-flying-tiger-copenhagen-1</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-flying-tiger-copenhagen-1"/>
-        <updated>2026-03-20T18:02:47.398Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-flying-tiger-copenhagen-1" title="Meer lezen over Terugroeping van Flying Tiger Copenhagen" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-03/glazen.png?itok=KsX_4ktU" width="605" height="193" alt="glazen" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Flying Tiger Copenhagen</span>
-          <span class="node__initiators">
-        <span class="initiator">Glazen met verschillende prints van het merk Flying Tiger Copenhagen</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke migratie van lood en cadmium</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="20/03/2026">
-          20/03/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
