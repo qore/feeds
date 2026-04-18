@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-04-16T18:44:35.110Z</updated>
+    <updated>2026-04-18T06:47:56.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Instant noedels “Buldak Spicy Ramen Hot Chicken Flavour Cup”]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-123</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-123"/>
+        <updated>2026-04-18T06:47:44.137Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-het-favv-123" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-04/2026_04_17_recall_Noedels_foto.jpg?itok=41ldm8t0" width="211" height="201" alt="noedels" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van het FAVV</span>
+          <span class="node__initiators">
+        <span class="initiator">Instant noedels “Buldak Spicy Ramen Hot Chicken Flavour Cup” </span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Te hoog gehalte aan 3-MCPD en glycidyl esters</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="17/04/2026">
+          17/04/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bereidingen op basis van kippengehakt van het merk Atelier by Janssen Geudens]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-janssen-geudens-foodservice-3</id>
@@ -389,49 +432,6 @@
         <span class="initiator">kip curry salade van het merk Atelier by Janssen Geudens</span>      </span>
               <span class="node__reasons">
         <span class="reason">Mogelijke aanwezigheid van Listeria</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="27/03/2026">
-          27/03/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mattentaarten Likeur van het merk Acker & Go Distillery]]></title>
-        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-acker-go-distillery-bv</id>
-        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-acker-go-distillery-bv"/>
-        <updated>2026-03-28T06:34:39.219Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/waarschuwing-van-acker-go-distillery-bv" title="Meer lezen over Waarschuwing van Acker &amp; Go Distillery bv" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-03/2026_03_27_WS_Likeur_foto.jpg?itok=5Oo3LOyJ" width="270" height="726" alt="likeur" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
-  <span class="taxonomy-term__title">
-            Waarschuwing
-      </span>
-</span></span>
-        <span class="node__title">Waarschuwing van Acker &amp; Go Distillery bv</span>
-          <span class="node__initiators">
-        <span class="initiator">Mattentaarten Likeur van het merk Acker &amp; Go Distillery</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Allergeen niet vermeld op het etiket: Melk</span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="27/03/2026">
           27/03/2026
