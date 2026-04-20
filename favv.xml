@@ -2,9 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-04-20T07:28:51.931Z</updated>
+    <updated>2026-04-20T18:35:25.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Pâté à la bière d’Orval en Délices de la Semois van het merk Blaise]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-salaisons-blaise</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-salaisons-blaise"/>
+        <updated>2026-04-20T18:35:12.575Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-salaisons-blaise" title="Meer lezen over Terugroeping van Salaisons Blaise" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-04/2026_04_20_recall_Blaise_foto1.jpg?itok=jNP152ay" width="247" height="206" alt="paté" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Salaisons Blaise</span>
+          <span class="node__initiators">
+        <span class="initiator">Pâté à la bière d’Orval en Délices de la Semois van het merk Blaise</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van Listeria</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="20/04/2026">
+          20/04/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verschillende soorten koekjes en cake van het merk Saffron Pastries]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-124</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-124"/>
+        <updated>2026-04-20T18:35:12.578Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-het-favv-124" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-04/2026_04_20_recall_favv_koekjes_foto.png?itok=KMv77aid" width="585" height="345" alt="koekjes" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van het FAVV</span>
+          <span class="node__initiators">
+        <span class="initiator">Verschillende soorten koekjes en cake van het merk Saffron Pastries</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Hygiëneproblemen bij de producent</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="20/04/2026">
+          20/04/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Instant noedels “Buldak Spicy Ramen Hot Chicken Flavour Cup”]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-123</id>
@@ -349,92 +435,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="31/03/2026">
           31/03/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tofu - Pâte de soja frit - van het merk Komy]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-122</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-122"/>
-        <updated>2026-03-31T18:12:33.911Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-het-favv-122" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-03/2026_03_31_recall_FAVV_Tofu_Komy_foto.jpg?itok=PoqWr0oD" width="144" height="253" alt="tofu" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van het FAVV</span>
-          <span class="node__initiators">
-        <span class="initiator">tofu - Pâte de soja frit - van het merk Komy</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Hygiëneproblemen bij de producent</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="31/03/2026">
-          31/03/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kip curry salade van het merk Atelier by Janssen Geudens]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-janssen-geudens-foodservice-1</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-janssen-geudens-foodservice-1"/>
-        <updated>2026-03-28T06:34:39.216Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-janssen-geudens-foodservice-1" title="Meer lezen over Terugroeping van Janssen Geudens foodservice " class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-03/2026_03_27_recall_Kipsalade_foto.jpg?itok=xU3ZWpVP" width="310" height="299" alt="kipsalade" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Janssen Geudens foodservice </span>
-          <span class="node__initiators">
-        <span class="initiator">kip curry salade van het merk Atelier by Janssen Geudens</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van Listeria</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="27/03/2026">
-          27/03/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
