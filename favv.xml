@@ -2,16 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-04-20T18:35:25.041Z</updated>
+    <updated>2026-04-21T18:40:23.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Pâté à la bière d’Orval en Délices de la Semois van het merk Blaise]]></title>
+        <title type="html"><![CDATA[Pâté à la bière d’Orval, Délices de la Semois en traditioneel pastei]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-salaisons-blaise</id>
         <link href="https://favv-afsca.be/nl/producten/terugroeping-van-salaisons-blaise"/>
         <updated>2026-04-20T18:35:12.575Z</updated>
         <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
   <a href="/nl/producten/terugroeping-van-salaisons-blaise" title="Meer lezen over Terugroeping van Salaisons Blaise" class="node__card-link">
+          <span class="node__update">  <span class="taxonomy-term taxonomy-term--update-tags taxonomy-term--view-mode-teaser taxonomy-term--color--dark-blue">
+  <span class="taxonomy-term__title">
+            Update
+      </span>
+</span>
+</span>
               <span class="node__image"><div class="media media--type-image media--view-mode-default">
   
 
@@ -36,12 +42,12 @@
 </span></span>
         <span class="node__title">Terugroeping van Salaisons Blaise</span>
           <span class="node__initiators">
-        <span class="initiator">Pâté à la bière d’Orval en Délices de la Semois van het merk Blaise</span>      </span>
+        <span class="initiator">Pâté à la bière d’Orval, Délices de la Semois en traditioneel pastei</span>      </span>
               <span class="node__reasons">
         <span class="reason">Mogelijke aanwezigheid van Listeria</span>      </span>
         <span class="node__bottom">
-              <time class="node__issue-date" datetime="20/04/2026">
-          20/04/2026
+              <time class="node__issue-date" datetime="21/04/2026">
+          21/04/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
