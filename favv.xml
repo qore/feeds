@@ -2,16 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-04-24T07:18:17.042Z</updated>
+    <updated>2026-04-24T18:06:48.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Essentiële olie Niaouli van het merk LA DROME]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-bv-mannavita</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-bv-mannavita"/>
-        <updated>2026-04-24T07:18:04.204Z</updated>
+        <title type="html"><![CDATA[Gorgonzola]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-intermarche-7</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-intermarche-7"/>
+        <updated>2026-04-24T18:06:35.954Z</updated>
         <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-bv-mannavita" title="Meer lezen over Terugroeping van BV MANNAVITA" class="node__card-link">
+  <a href="/nl/producten/terugroeping-van-intermarche-7" title="Meer lezen over Terugroeping van Intermarché" class="node__card-link">
               <span class="node__image"><div class="media media--type-image media--view-mode-default">
   
 
@@ -19,7 +19,7 @@
       
   <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
     <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-04/2026_04_23_recall_LA%20DROME%20NIAOULI_foto.jpg?itok=Xx40PMa8" width="188" height="236" alt="essentiële olie" class="image-style--extra-large">
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-03/2026_03_24_recall_Gorgonzola_foto.jpg?itok=w-lXUtNR" width="188" height="112" alt="kaas" class="image-style--extra-large">
 
 
 
@@ -34,100 +34,14 @@
             Terugroeping
       </span>
 </span></span>
-        <span class="node__title">Terugroeping van BV MANNAVITA</span>
+        <span class="node__title">Terugroeping van Intermarché</span>
           <span class="node__initiators">
-        <span class="initiator">Essentiële olie Niaouli van het merk LA DROME</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Aanwezigheid van Melaleuca Quinquenervia als essentiële olie in voedingssupplement</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="24/04/2026">
-          24/04/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pistachecrème “Pistazien creme” van het merk Gourmet Çelebi]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-126</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-126"/>
-        <updated>2026-04-24T07:18:04.206Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-het-favv-126" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-04/2026_04_23_recall_favv_Cr%C3%A8me%20Pistazien_foto.jpg?itok=88VbB8mV" width="346" height="430" alt="pistachecrème" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van het FAVV</span>
-          <span class="node__initiators">
-        <span class="initiator">Pistachecrème “Pistazien creme” van het merk Gourmet Çelebi</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van Salmonella</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="23/04/2026">
-          23/04/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[enoki mushrooms - paddenstoelen - van het merk Green Box limited]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-125</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-125"/>
-        <updated>2026-04-22T18:40:20.823Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-het-favv-125" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-04/2026_04_22_recall_favv_enoki_foto.png?itok=dSkaSD2O" width="279" height="551" alt="paddenstoelen" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van het FAVV</span>
-          <span class="node__initiators">
-        <span class="initiator">enoki mushrooms - paddenstoelen - van het merk Green Box limited</span>      </span>
+        <span class="initiator">Gorgonzola</span>      </span>
               <span class="node__reasons">
         <span class="reason">Mogelijke aanwezigheid van Listeria monocytogenes</span>      </span>
         <span class="node__bottom">
-              <time class="node__issue-date" datetime="22/04/2026">
-          22/04/2026
+              <time class="node__issue-date" datetime="24/03/2026">
+          24/03/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
@@ -135,12 +49,270 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pâté à la bière d’Orval, Délices de la Semois en traditioneel pastei]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-salaisons-blaise</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-salaisons-blaise"/>
-        <updated>2026-04-20T18:35:12.575Z</updated>
+        <title type="html"><![CDATA[Glazen met verschillende prints van het merk Flying Tiger Copenhagen]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-flying-tiger-copenhagen-1</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-flying-tiger-copenhagen-1"/>
+        <updated>2026-04-24T18:06:35.956Z</updated>
         <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-salaisons-blaise" title="Meer lezen over Terugroeping van Salaisons Blaise" class="node__card-link">
+  <a href="/nl/producten/terugroeping-van-flying-tiger-copenhagen-1" title="Meer lezen over Terugroeping van Flying Tiger Copenhagen" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-03/glazen.png?itok=KsX_4ktU" width="605" height="193" alt="glazen" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Flying Tiger Copenhagen</span>
+          <span class="node__initiators">
+        <span class="initiator">Glazen met verschillende prints van het merk Flying Tiger Copenhagen</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke migratie van lood en cadmium</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="20/03/2026">
+          20/03/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biologische kipfilets - met en zonder vel - van het merk COQ DES PRES]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-ardenne-volaille</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-ardenne-volaille"/>
+        <updated>2026-04-24T18:06:35.957Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-ardenne-volaille" title="Meer lezen over Terugroeping van Ardenne Volaille" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-03/2026_03_19_recall_Ardenne%20Volaille_foto1.jpg?itok=9q1Ra8lP" width="299" height="397" alt="gevogelte" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Ardenne Volaille</span>
+          <span class="node__initiators">
+        <span class="initiator">Biologische kipfilets - met en zonder vel - van het merk COQ DES PRES</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van metaalfragmenten</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="19/03/2026">
+          19/03/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feunegriek bladeren van het merk MDH]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-121</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-121"/>
+        <updated>2026-04-24T18:06:35.958Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-het-favv-121" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-03/2026_03_16_recall_AFSCA_Fenugrec_foto.jpg?itok=MByhUWOh" width="373" height="523" alt="Feunegriek" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van het FAVV</span>
+          <span class="node__initiators">
+        <span class="initiator">Feunegriek bladeren van het merk MDH</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Te hoog gehalte aan residu van gewasbeschermingsmiddelen (Chloorpyrifos)</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="16/03/2026">
+          16/03/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[biologische ham “pays vert” van het merk Coprosain]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-agrielia-0</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-agrielia-0"/>
+        <updated>2026-04-24T18:06:35.959Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-agrielia-0" title="Meer lezen over Terugroeping van Agrielia" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-03/2026_03_13_recall_Agrielia_foto.jpg?itok=BvXwJUl2" width="235" height="176" alt="biologische ham “pays vert” van het merk Coprosain " class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Agrielia</span>
+          <span class="node__initiators">
+        <span class="initiator">biologische ham “pays vert” van het merk Coprosain </span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van Listeria monocytogenes</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="13/03/2026">
+          13/03/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Picodon d'Ardèche” van het merk Fromagerie du Vivarais]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-rob-gourmets-market</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-rob-gourmets-market"/>
+        <updated>2026-04-24T18:06:35.961Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-rob-gourmets-market" title="Meer lezen over Terugroeping van Rob The Gourmets’ Market " class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-03/2026_03_13_recall_Rob_foto.jpg?itok=4bz1MHox" width="198" height="148" alt="“Picodon d'Ardèche” van het merk Fromagerie du Vivarais" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Rob The Gourmets’ Market </span>
+          <span class="node__initiators">
+        <span class="initiator">“Picodon d'Ardèche” van het merk Fromagerie du Vivarais</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van Escherichia coli (STEC)</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="13/03/2026">
+          13/03/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gele curry met aubergines en kokosmelk “Curry Jaune aux aubergines et lait de coco” van het merk Prosain]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-biofresh-belgium-3</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-biofresh-belgium-3"/>
+        <updated>2026-04-24T18:06:35.962Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-biofresh-belgium-3" title="Meer lezen over Terugroeping van Biofresh Belgium" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-03/2026_03_13_recall_Biofresh_foto.jpg?itok=D-1q_ZLc" width="105" height="199" alt="curry" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Biofresh Belgium</span>
+          <span class="node__initiators">
+        <span class="initiator">gele curry met aubergines en kokosmelk “Curry Jaune aux aubergines et lait de coco” van het merk Prosain</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van stukjes glas</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="13/03/2026">
+          13/03/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[instant noedels “Instant Noodles Spicy Chicken Flavour” van het merk Ever Roka]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-118</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-118"/>
+        <updated>2026-04-24T18:06:35.964Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-het-favv-118" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
           <span class="node__update">  <span class="taxonomy-term taxonomy-term--update-tags taxonomy-term--view-mode-teaser taxonomy-term--color--dark-blue">
   <span class="taxonomy-term__title">
             Update
@@ -154,7 +326,7 @@
       
   <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
     <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-04/2026_04_20_recall_Blaise_foto1.jpg?itok=jNP152ay" width="247" height="206" alt="paté" class="image-style--extra-large">
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-02/2026_02_18_recall_FAVV_noodles_foto.png?itok=3n0IvYRA" width="288" height="436" alt="noedels" class="image-style--extra-large">
 
 
 
@@ -169,14 +341,14 @@
             Terugroeping
       </span>
 </span></span>
-        <span class="node__title">Terugroeping van Salaisons Blaise</span>
+        <span class="node__title">Terugroeping van het FAVV</span>
           <span class="node__initiators">
-        <span class="initiator">Pâté à la bière d’Orval, Délices de la Semois en traditioneel pastei</span>      </span>
+        <span class="initiator">instant noedels “Instant Noodles Spicy Chicken Flavour” van het merk Ever Roka</span>      </span>
               <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van Listeria</span>      </span>
+        <span class="reason">Te hoog gehalte aan minerale oliën MOSH &amp; MOAH</span>      </span>
         <span class="node__bottom">
-              <time class="node__issue-date" datetime="22/04/2026">
-          22/04/2026
+              <time class="node__issue-date" datetime="12/03/2026">
+          12/03/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
@@ -184,12 +356,12 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spreads “Acuka” en “Antep Ezmesi” van het merk Yorem]]></title>
-        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-yorem-belgium-bv</id>
-        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-yorem-belgium-bv"/>
-        <updated>2026-04-22T18:40:20.824Z</updated>
+        <title type="html"><![CDATA[Sneetjes witte pens peterselie van het merk Carrefour Sensation Pick&Mix]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-goumanisto-sa</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-goumanisto-sa"/>
+        <updated>2026-04-24T18:06:35.965Z</updated>
         <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/waarschuwing-van-yorem-belgium-bv" title="Meer lezen over Waarschuwing van Yorem Belgium BV" class="node__card-link">
+  <a href="/nl/producten/terugroeping-van-goumanisto-sa" title="Meer lezen over Terugroeping van Goumanisto SA " class="node__card-link">
               <span class="node__image"><div class="media media--type-image media--view-mode-default">
   
 
@@ -197,7 +369,50 @@
       
   <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
     <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-04/2026_02_22_WS_yorem_spread.jpg?itok=VD5fkSFd" width="600" height="173" alt="Tartinades « Acuka » &amp; « Antep Ezmesi » - Yorem" class="image-style--extra-large">
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-03/2026_03_10_recall_FAVV_Boudin_foto.jpg?itok=9jjpp3Qn" width="557" height="492" alt="witte pens" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Goumanisto SA </span>
+          <span class="node__initiators">
+        <span class="initiator">Sneetjes witte pens peterselie van het merk Carrefour Sensation Pick&amp;Mix</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van Listeria monocytogenes</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="10/03/2026">
+          10/03/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wraphapje gerookte zalm met roomkaas van het merk Jumbo]]></title>
+        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-jumbo-18</id>
+        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-jumbo-18"/>
+        <updated>2026-04-24T18:06:35.968Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/waarschuwing-van-jumbo-18" title="Meer lezen over Waarschuwing van Jumbo" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-03/2026_03_09_WS_Jumbo_foto.jpg?itok=qO7Czjrp" width="227" height="235" alt="wrap" class="image-style--extra-large">
 
 
 
@@ -212,229 +427,14 @@
             Waarschuwing
       </span>
 </span></span>
-        <span class="node__title">Waarschuwing van Yorem Belgium BV</span>
+        <span class="node__title">Waarschuwing van Jumbo</span>
           <span class="node__initiators">
-        <span class="initiator">Spreads “Acuka” en “Antep Ezmesi” van het merk Yorem</span>      </span>
+        <span class="initiator">Wraphapje gerookte zalm met roomkaas van het merk Jumbo </span>      </span>
               <span class="node__reasons">
-        <span class="reason">Allergeen niet vermeld op het etiket: Selderij</span>      </span>
+        <span class="reason">Het product bevat mogelijk een verkeerd onderetiket, waardoor de allergenen tarwegluten en vis niet zijn gedeclareerd op de verpakking. Het bovenetiket is juist. </span>      </span>
         <span class="node__bottom">
-              <time class="node__issue-date" datetime="22/04/2026">
-          22/04/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verschillende soorten koekjes en cake van het merk Saffron Pastries]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-124</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-124"/>
-        <updated>2026-04-20T18:35:12.578Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-het-favv-124" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-04/2026_04_20_recall_favv_koekjes_foto.png?itok=KMv77aid" width="585" height="345" alt="koekjes" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van het FAVV</span>
-          <span class="node__initiators">
-        <span class="initiator">Verschillende soorten koekjes en cake van het merk Saffron Pastries</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Hygiëneproblemen bij de producent</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="20/04/2026">
-          20/04/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instant noedels “Buldak Spicy Ramen Hot Chicken Flavour Cup”]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-123</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-123"/>
-        <updated>2026-04-18T06:47:44.137Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-het-favv-123" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-04/2026_04_17_recall_Noedels_foto.jpg?itok=41ldm8t0" width="211" height="201" alt="noedels" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van het FAVV</span>
-          <span class="node__initiators">
-        <span class="initiator">Instant noedels “Buldak Spicy Ramen Hot Chicken Flavour Cup” </span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan 3-MCPD en glycidyl esters</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="17/04/2026">
-          17/04/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bereidingen op basis van kippengehakt van het merk Atelier by Janssen Geudens]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-janssen-geudens-foodservice-3</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-janssen-geudens-foodservice-3"/>
-        <updated>2026-04-16T18:44:21.773Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-janssen-geudens-foodservice-3" title="Meer lezen over Terugroeping van Janssen Geudens Foodservice" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-04/2026_04_16_recall_Janssen-Geudens-foodservice_kippengehakt.jpg?itok=BKWUQreJ" width="960" height="955" alt="Atelier by Janssen Geudens" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Janssen Geudens Foodservice</span>
-          <span class="node__initiators">
-        <span class="initiator">Bereidingen op basis van kippengehakt van het merk Atelier by Janssen Geudens</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van Salmonella</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="16/04/2026">
-          16/04/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kip zumba salade van het merk Atelier by Janssen Geudens]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-janssen-geudens-foodservice-2</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-janssen-geudens-foodservice-2"/>
-        <updated>2026-04-16T07:10:13.945Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-janssen-geudens-foodservice-2" title="Meer lezen over Terugroeping van Janssen Geudens foodservice" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-04/2026_04_15_recall_kipsalade_foto.jpg?itok=ZUiG2Jsm" width="262" height="205" alt="kipsalade" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Janssen Geudens foodservice</span>
-          <span class="node__initiators">
-        <span class="initiator">Kip zumba salade van het merk Atelier by Janssen Geudens</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van Listeria</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="15/04/2026">
-          15/04/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BRILLATS SAVARIN AFFINES IGP [kaas] van het merk Fromagerie Delin]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-chasal</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-chasal"/>
-        <updated>2026-04-15T07:09:19.504Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-chasal" title="Meer lezen over Terugroeping van CHASAL" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-04/2026_04_14_recall_kaas.jpg?itok=RIAUceKM" width="426" height="452" alt="Fromagerie Delin" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van CHASAL</span>
-          <span class="node__initiators">
-        <span class="initiator">BRILLATS SAVARIN AFFINES IGP [kaas] van het merk Fromagerie Delin</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van Listeria monocytogenes</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="14/04/2026">
-          14/04/2026
+              <time class="node__issue-date" datetime="09/03/2026">
+          09/03/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
