@@ -2,9 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-04-23T07:14:28.430Z</updated>
+    <updated>2026-04-24T07:18:17.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Essentiële olie Niaouli van het merk LA DROME]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-bv-mannavita</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-bv-mannavita"/>
+        <updated>2026-04-24T07:18:04.204Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-bv-mannavita" title="Meer lezen over Terugroeping van BV MANNAVITA" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-04/2026_04_23_recall_LA%20DROME%20NIAOULI_foto.jpg?itok=Xx40PMa8" width="188" height="236" alt="essentiële olie" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van BV MANNAVITA</span>
+          <span class="node__initiators">
+        <span class="initiator">Essentiële olie Niaouli van het merk LA DROME</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Aanwezigheid van Melaleuca Quinquenervia als essentiële olie in voedingssupplement</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="24/04/2026">
+          24/04/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pistachecrème “Pistazien creme” van het merk Gourmet Çelebi]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-126</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-126"/>
+        <updated>2026-04-24T07:18:04.206Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-het-favv-126" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-04/2026_04_23_recall_favv_Cr%C3%A8me%20Pistazien_foto.jpg?itok=88VbB8mV" width="346" height="430" alt="pistachecrème" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van het FAVV</span>
+          <span class="node__initiators">
+        <span class="initiator">Pistachecrème “Pistazien creme” van het merk Gourmet Çelebi</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van Salmonella</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="23/04/2026">
+          23/04/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[enoki mushrooms - paddenstoelen - van het merk Green Box limited]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-125</id>
@@ -349,98 +435,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="14/04/2026">
           14/04/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sella Basmati rijst van het merk Al-Shalan]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-113</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-113"/>
-        <updated>2026-04-10T18:09:10.170Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-het-favv-113" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
-          <span class="node__update">  <span class="taxonomy-term taxonomy-term--update-tags taxonomy-term--view-mode-teaser taxonomy-term--color--dark-blue">
-  <span class="taxonomy-term__title">
-            Update
-      </span>
-</span>
-</span>
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-01/26_01_2026_recall_Rijst_foto.jpg?itok=dQvIynsG" width="282" height="331" alt="rijst" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van het FAVV</span>
-          <span class="node__initiators">
-        <span class="initiator">Sella Basmati rijst van het merk Al-Shalan</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan minerale oliën MOSH &amp; MOAH</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="10/04/2026">
-          10/04/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Préparé van het merk Spar]]></title>
-        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-retail-partners-colruyt-group-0</id>
-        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-retail-partners-colruyt-group-0"/>
-        <updated>2026-04-02T18:10:04.986Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/waarschuwing-van-retail-partners-colruyt-group-0" title="Meer lezen over Waarschuwing van Retail Partners Colruyt Group" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-04/2026_02_04_WS_spar_pr%C3%A9par%C3%A9_foto.png?itok=BONe7yek" width="213" height="165" alt="préparé" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
-  <span class="taxonomy-term__title">
-            Waarschuwing
-      </span>
-</span></span>
-        <span class="node__title">Waarschuwing van Retail Partners Colruyt Group</span>
-          <span class="node__initiators">
-        <span class="initiator">Préparé van het merk Spar </span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Foutieve houdbaarheidsdatum TGT op de verpakking </span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="02/04/2026">
-          02/04/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
