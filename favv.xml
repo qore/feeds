@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-04-24T18:06:48.891Z</updated>
+    <updated>2026-04-25T18:06:25.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SOEPBALLETJES GEVOGELTE GEKOOKT IQF van het merk FROZEN FARM]]></title>
+        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-dekeyzer-ossaer-nv</id>
+        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-dekeyzer-ossaer-nv"/>
+        <updated>2026-04-25T18:06:12.805Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/waarschuwing-van-dekeyzer-ossaer-nv" title="Meer lezen over Waarschuwing van Dekeyzer-Ossaer NV" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-04/2026_04_24_WS_Dekeyzer.jpg?itok=iUASotm9" width="960" height="587" alt="FROZEN FARM" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
+  <span class="taxonomy-term__title">
+            Waarschuwing
+      </span>
+</span></span>
+        <span class="node__title">Waarschuwing van Dekeyzer-Ossaer NV</span>
+          <span class="node__initiators">
+        <span class="initiator">SOEPBALLETJES GEVOGELTE GEKOOKT IQF van het merk FROZEN FARM</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Allergeen niet vermeld op het etiket: Tarwe (Gluten)</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="25/04/2026">
+          25/04/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gorgonzola]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-intermarche-7</id>
@@ -392,49 +435,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="10/03/2026">
           10/03/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wraphapje gerookte zalm met roomkaas van het merk Jumbo]]></title>
-        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-jumbo-18</id>
-        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-jumbo-18"/>
-        <updated>2026-04-24T18:06:35.968Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/waarschuwing-van-jumbo-18" title="Meer lezen over Waarschuwing van Jumbo" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-03/2026_03_09_WS_Jumbo_foto.jpg?itok=qO7Czjrp" width="227" height="235" alt="wrap" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
-  <span class="taxonomy-term__title">
-            Waarschuwing
-      </span>
-</span></span>
-        <span class="node__title">Waarschuwing van Jumbo</span>
-          <span class="node__initiators">
-        <span class="initiator">Wraphapje gerookte zalm met roomkaas van het merk Jumbo </span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Het product bevat mogelijk een verkeerd onderetiket, waardoor de allergenen tarwegluten en vis niet zijn gedeclareerd op de verpakking. Het bovenetiket is juist. </span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="09/03/2026">
-          09/03/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
