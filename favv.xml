@@ -2,9 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-04-27T07:54:30.839Z</updated>
+    <updated>2026-04-27T18:50:54.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sushi rijst “Shinode original” van het merk Sun Clad en sushi rijst van het merk Scamark]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-127</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-127"/>
+        <updated>2026-04-27T18:50:41.693Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-het-favv-127" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-04/2026_04_27_recall_favv_sushi.jpg?itok=zwWFPfHS" width="457" height="727" alt="Scamark" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van het FAVV</span>
+          <span class="node__initiators">
+        <span class="initiator">Sushi rijst “Shinode original” van het merk Sun Clad en sushi rijst van het merk Scamark</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Te hoog gehalte aan minerale oliën MOSH &amp; MOAH</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="27/04/2026">
+          27/04/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lollipops van het merk SIMPL]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-carrefour-28</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-carrefour-28"/>
+        <updated>2026-04-27T18:50:41.693Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-carrefour-28" title="Meer lezen over Terugroeping van Carrefour" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-04/2026_04_27_carrefour_lollys.jpg?itok=HeiAQT9x" width="532" height="647" alt="Sucettes boules de la marque SIMPL" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Carrefour</span>
+          <span class="node__initiators">
+        <span class="initiator">Lollipops van het merk SIMPL</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van stukjes metaal</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="27/04/2026">
+          27/04/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SOEPBALLETJES GEVOGELTE GEKOOKT IQF van het merk FROZEN FARM]]></title>
         <id>https://favv-afsca.be/nl/producten/waarschuwing-van-dekeyzer-ossaer-nv</id>
@@ -343,98 +429,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="13/03/2026">
           13/03/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[instant noedels “Instant Noodles Spicy Chicken Flavour” van het merk Ever Roka]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-118</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-118"/>
-        <updated>2026-04-24T18:06:35.964Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-het-favv-118" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
-          <span class="node__update">  <span class="taxonomy-term taxonomy-term--update-tags taxonomy-term--view-mode-teaser taxonomy-term--color--dark-blue">
-  <span class="taxonomy-term__title">
-            Update
-      </span>
-</span>
-</span>
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-02/2026_02_18_recall_FAVV_noodles_foto.png?itok=3n0IvYRA" width="288" height="436" alt="noedels" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van het FAVV</span>
-          <span class="node__initiators">
-        <span class="initiator">instant noedels “Instant Noodles Spicy Chicken Flavour” van het merk Ever Roka</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan minerale oliën MOSH &amp; MOAH</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="12/03/2026">
-          12/03/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sneetjes witte pens peterselie van het merk Carrefour Sensation Pick&Mix]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-goumanisto-sa</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-goumanisto-sa"/>
-        <updated>2026-04-24T18:06:35.965Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-goumanisto-sa" title="Meer lezen over Terugroeping van Goumanisto SA " class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-03/2026_03_10_recall_FAVV_Boudin_foto.jpg?itok=9jjpp3Qn" width="557" height="492" alt="witte pens" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Goumanisto SA </span>
-          <span class="node__initiators">
-        <span class="initiator">Sneetjes witte pens peterselie van het merk Carrefour Sensation Pick&amp;Mix</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van Listeria monocytogenes</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="10/03/2026">
-          10/03/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
