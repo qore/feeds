@@ -2,9 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-05-04T08:06:15.735Z</updated>
+    <updated>2026-05-04T19:05:41.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Boekweitmeel T85 & T65 van het merk Mouligrange]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-ferme-de-grange</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-ferme-de-grange"/>
+        <updated>2026-05-04T19:05:29.028Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-ferme-de-grange" title="Meer lezen over Terugroeping van Ferme de Grange" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-05/2026_04_05_recall_bloem.jpg?itok=hgRWM6KN" width="839" height="522" alt="Farine de sarrasin T85 &amp; T65 de la marque Mouligrange" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Ferme de Grange</span>
+          <span class="node__initiators">
+        <span class="initiator">Boekweitmeel T85 &amp; T65 van het merk Mouligrange</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Te hoog gehalte aan ochratoxine A</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="04/05/2026">
+          04/05/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jumbo Whey Protein poeder - vanille, chocolade, aardbei - van het merk Jumbo]]></title>
+        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-jumbo-19</id>
+        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-jumbo-19"/>
+        <updated>2026-05-04T19:05:29.028Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/waarschuwing-van-jumbo-19" title="Meer lezen over Waarschuwing van Jumbo" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-05/2026_04_05_WS_Jumbo_foto.png?itok=DO1-FNrg" width="123" height="151" alt="whey proteïne" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
+  <span class="taxonomy-term__title">
+            Waarschuwing
+      </span>
+</span></span>
+        <span class="node__title">Waarschuwing van Jumbo</span>
+          <span class="node__initiators">
+        <span class="initiator">Jumbo Whey Protein poeder - vanille, chocolade, aardbei - van het merk Jumbo </span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Allergeen soja niet vermeld op het etiket</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="04/05/2026">
+          04/05/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[All-in mix voor bruin brood van het merk Cook&Bake]]></title>
         <id>https://favv-afsca.be/nl/producten/waarschuwing-van-jan-gevers</id>
@@ -221,7 +307,7 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Instant noedels “Buldak Spicy Ramen Hot Chicken Flavour”]]></title>
+        <title type="html"><![CDATA[Instant noedels “Buldak Hot Chicken Flavour Ramen – Carbonara Flavour”]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-128</id>
         <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-128"/>
         <updated>2026-04-29T07:38:58.602Z</updated>
@@ -251,7 +337,7 @@
 </span></span>
         <span class="node__title">Terugroeping van het FAVV</span>
           <span class="node__initiators">
-        <span class="initiator">Instant noedels “Buldak Spicy Ramen Hot Chicken Flavour” </span>      </span>
+        <span class="initiator">Instant noedels “Buldak Hot Chicken Flavour Ramen – Carbonara Flavour”</span>      </span>
               <span class="node__reasons">
         <span class="reason">Te hoog gehalte aan 3-MCPD en glycidyl esters</span>      </span>
         <span class="node__bottom">
@@ -343,92 +429,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="27/04/2026">
           27/04/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lollipops van het merk SIMPL]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-carrefour-28</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-carrefour-28"/>
-        <updated>2026-04-27T18:50:41.693Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-carrefour-28" title="Meer lezen over Terugroeping van Carrefour" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-04/2026_04_27_carrefour_lollys.jpg?itok=HeiAQT9x" width="532" height="647" alt="Sucettes boules de la marque SIMPL" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Carrefour</span>
-          <span class="node__initiators">
-        <span class="initiator">Lollipops van het merk SIMPL</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van stukjes metaal</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="27/04/2026">
-          27/04/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOEPBALLETJES GEVOGELTE GEKOOKT IQF van het merk FROZEN FARM]]></title>
-        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-dekeyzer-ossaer-nv</id>
-        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-dekeyzer-ossaer-nv"/>
-        <updated>2026-04-25T18:06:12.805Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/waarschuwing-van-dekeyzer-ossaer-nv" title="Meer lezen over Waarschuwing van Dekeyzer-Ossaer NV" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-04/2026_04_24_WS_Dekeyzer.jpg?itok=iUASotm9" width="960" height="587" alt="FROZEN FARM" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
-  <span class="taxonomy-term__title">
-            Waarschuwing
-      </span>
-</span></span>
-        <span class="node__title">Waarschuwing van Dekeyzer-Ossaer NV</span>
-          <span class="node__initiators">
-        <span class="initiator">SOEPBALLETJES GEVOGELTE GEKOOKT IQF van het merk FROZEN FARM</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Allergeen niet vermeld op het etiket: Tarwe (Gluten)</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="25/04/2026">
-          25/04/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
