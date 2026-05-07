@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-05-06T19:10:15.618Z</updated>
+    <updated>2026-05-07T08:04:05.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Gedroogde ABRIKOZEN van het merk GARMELLO]]></title>
+        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-mia-trading-intl-sa</id>
+        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-mia-trading-intl-sa"/>
+        <updated>2026-05-07T08:03:52.996Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/waarschuwing-van-mia-trading-intl-sa" title="Meer lezen over Waarschuwing van MIA TRADING INTL. SA" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-05/2026_05_07_WS_MIA%20TRADING_foto1.jpg?itok=Y054DPdF" width="557" height="557" alt="gedroogde abrikozen" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
+  <span class="taxonomy-term__title">
+            Waarschuwing
+      </span>
+</span></span>
+        <span class="node__title">Waarschuwing van MIA TRADING INTL. SA</span>
+          <span class="node__initiators">
+        <span class="initiator">Gedroogde ABRIKOZEN van het merk GARMELLO </span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Allergeen niet vermeld op het etiket: Sulfiet</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="07/05/2026">
+          07/05/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Verschillende bak mixen [all-in] voor brood van het merk Cook & Bake]]></title>
         <id>https://favv-afsca.be/nl/producten/waarschuwing-van-jan-gevers-bv</id>
@@ -383,49 +426,6 @@
         <span class="initiator">Kaas “PT PERCEE REBLOCHON DE SAVOIE” van het merk SPAR</span>      </span>
               <span class="node__reasons">
         <span class="reason">Mogelijke aanwezigheid van Escherichia coli (STEC)</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="29/04/2026">
-          29/04/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pomace olijfolie “Riviera Zeytinyagi” van het merk Marmara]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-130</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-130"/>
-        <updated>2026-04-29T18:55:59.039Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-het-favv-130" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-04/2026_04_29_recall_FAVV_olie.jpg?itok=0cSlzEz2" width="382" height="775" alt="Riviera Zeytinyagi" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van het FAVV</span>
-          <span class="node__initiators">
-        <span class="initiator">Pomace olijfolie “Riviera Zeytinyagi” van het merk Marmara</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan minerale oliën MOAH</span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="29/04/2026">
           29/04/2026
