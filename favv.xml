@@ -2,9 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-05-11T08:42:43.860Z</updated>
+    <updated>2026-05-11T19:17:39.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Eieren: scharreleieren met stempelcode “2-BE-1073-01”, “2-BE-1073-02”, “2-BE-1073-03” en “2-BE-1073-04”.]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-laerco-bv</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-laerco-bv"/>
+        <updated>2026-05-11T19:17:27.619Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-laerco-bv" title="Meer lezen over Terugroeping van Laerco BV" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-05/2026_05_11_recall_Laerco_foto1.jpg?itok=4lrUwyQj" width="142" height="189" alt="eieren" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Laerco BV</span>
+          <span class="node__initiators">
+        <span class="initiator">Eieren: scharreleieren met stempelcode “2-BE-1073-01”, “2-BE-1073-02”, “2-BE-1073-03” en “2-BE-1073-04”.</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van Salmonella</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="11/05/2026">
+          11/05/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gedroogde ABRIKOZEN van het merk GARMELLO]]></title>
+        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-mia-trading-intl-sa</id>
+        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-mia-trading-intl-sa"/>
+        <updated>2026-05-07T08:03:52.996Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/waarschuwing-van-mia-trading-intl-sa" title="Meer lezen over Waarschuwing van MIA TRADING INTL. SA" class="node__card-link">
+          <span class="node__update">  <span class="taxonomy-term taxonomy-term--update-tags taxonomy-term--view-mode-teaser taxonomy-term--color--dark-blue">
+  <span class="taxonomy-term__title">
+            Update
+      </span>
+</span>
+</span>
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-05/2026_05_07_WS_MIA%20TRADING_foto1.jpg?itok=Y054DPdF" width="557" height="557" alt="gedroogde abrikozen" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
+  <span class="taxonomy-term__title">
+            Waarschuwing
+      </span>
+</span></span>
+        <span class="node__title">Waarschuwing van MIA TRADING INTL. SA</span>
+          <span class="node__initiators">
+        <span class="initiator">Gedroogde ABRIKOZEN van het merk GARMELLO </span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Allergeen niet vermeld op het etiket: Sulfiet</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="11/05/2026">
+          11/05/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chips Semyan van het merk Rian Trading]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-rian-trading-bv</id>
@@ -264,49 +356,6 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gedroogde ABRIKOZEN van het merk GARMELLO]]></title>
-        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-mia-trading-intl-sa</id>
-        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-mia-trading-intl-sa"/>
-        <updated>2026-05-07T08:03:52.996Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/waarschuwing-van-mia-trading-intl-sa" title="Meer lezen over Waarschuwing van MIA TRADING INTL. SA" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-05/2026_05_07_WS_MIA%20TRADING_foto1.jpg?itok=Y054DPdF" width="557" height="557" alt="gedroogde abrikozen" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
-  <span class="taxonomy-term__title">
-            Waarschuwing
-      </span>
-</span></span>
-        <span class="node__title">Waarschuwing van MIA TRADING INTL. SA</span>
-          <span class="node__initiators">
-        <span class="initiator">Gedroogde ABRIKOZEN van het merk GARMELLO </span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Allergeen niet vermeld op het etiket: Sulfiet</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="07/05/2026">
-          07/05/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Verschillende bak mixen [all-in] voor brood van het merk Cook & Bake]]></title>
         <id>https://favv-afsca.be/nl/producten/waarschuwing-van-jan-gevers-bv</id>
         <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-jan-gevers-bv"/>
@@ -383,49 +432,6 @@
         <span class="initiator">Dessert met peer en vanille van het merk Les Délices du Chaudron</span>      </span>
               <span class="node__reasons">
         <span class="reason">Mogelijke aanwezigheid van metaaldraad</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="06/05/2026">
-          06/05/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KAMILLE ECHTE CHAMOMILE van het merk KONOUZ]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-new-marbel-nv</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-new-marbel-nv"/>
-        <updated>2026-05-06T19:10:03.912Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-new-marbel-nv" title="Meer lezen over Terugroeping van NEW MARBEL NV" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-05/2026_05_06_recall_New%20Marbel_foto.jpg?itok=am-K2LVt" width="148" height="235" alt="kamille" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van NEW MARBEL NV</span>
-          <span class="node__initiators">
-        <span class="initiator">KAMILLE ECHTE CHAMOMILE van het merk KONOUZ</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan residu van gewasbeschermingsmiddelen (Chloorpyrifos)</span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="06/05/2026">
           06/05/2026
