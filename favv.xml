@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-05-12T08:10:20.394Z</updated>
+    <updated>2026-05-12T19:19:21.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LIGHT DIGEST WHEY PROTEIN – vanillesmaak van het merk QNT Liife]]></title>
+        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-qnt</id>
+        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-qnt"/>
+        <updated>2026-05-12T19:19:09.833Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/waarschuwing-van-qnt" title="Meer lezen over Waarschuwing van QNT" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-05/2026_05_12_WS_Whey%20protein_foto.jpg?itok=UxSBeQvy" width="238" height="274" alt="whey proteïne" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
+  <span class="taxonomy-term__title">
+            Waarschuwing
+      </span>
+</span></span>
+        <span class="node__title">Waarschuwing van QNT</span>
+          <span class="node__initiators">
+        <span class="initiator">LIGHT DIGEST WHEY PROTEIN – vanillesmaak van het merk QNT Liife</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Allergeen niet vermeld op het etiket: Soja</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="12/05/2026">
+          12/05/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eieren: scharreleieren met stempelcode “2-BE-1073-01”, “2-BE-1073-02”, “2-BE-1073-03” en “2-BE-1073-04”.]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-laerco-bv</id>
@@ -389,49 +432,6 @@
         <span class="initiator">Verschillende bak mixen [all-in] voor brood van het merk Cook &amp; Bake </span>      </span>
               <span class="node__reasons">
         <span class="reason">Allergeen niet vermeld op het etiket: Ei</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="06/05/2026">
-          06/05/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dessert met peer en vanille van het merk Les Délices du Chaudron]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-grand-frais-8</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-grand-frais-8"/>
-        <updated>2026-05-06T19:10:03.912Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-grand-frais-8" title="Meer lezen over Terugroeping van Grand Frais" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-05/Image1.png?itok=-UjKAPLh" width="250" height="185" alt="Dessert poire vanille" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Grand Frais</span>
-          <span class="node__initiators">
-        <span class="initiator">Dessert met peer en vanille van het merk Les Délices du Chaudron</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van metaaldraad</span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="06/05/2026">
           06/05/2026
