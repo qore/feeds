@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-05-12T19:19:21.253Z</updated>
+    <updated>2026-05-13T08:23:08.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sesamzaad “ROASTED BLACK SESAME SEED” van het merk NTC]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-exotic-food-service</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-exotic-food-service"/>
+        <updated>2026-05-13T08:22:56.585Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-exotic-food-service" title="Meer lezen over Terugroeping van Exotic Food  Service " class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-05/2026_05_13_recall_sesamzaad_foto.jpg?itok=WRDAQn9i" width="600" height="600" alt="sesamzaad" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Exotic Food  Service </span>
+          <span class="node__initiators">
+        <span class="initiator">Sesamzaad “ROASTED BLACK SESAME SEED” van het merk NTC</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Te hoog gehalte aan aflatoxine B1</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="13/05/2026">
+          13/05/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LIGHT DIGEST WHEY PROTEIN – vanillesmaak van het merk QNT Liife]]></title>
         <id>https://favv-afsca.be/nl/producten/waarschuwing-van-qnt</id>
@@ -392,49 +435,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="07/05/2026">
           07/05/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verschillende bak mixen [all-in] voor brood van het merk Cook & Bake]]></title>
-        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-jan-gevers-bv</id>
-        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-jan-gevers-bv"/>
-        <updated>2026-05-06T19:10:03.911Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/waarschuwing-van-jan-gevers-bv" title="Meer lezen over Waarschuwing van Jan Gevers BV" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-05/2026-05-06_17h08_44.jpg?itok=TqSu0ULT" width="563" height="513" alt="Cook &amp; Bake" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
-  <span class="taxonomy-term__title">
-            Waarschuwing
-      </span>
-</span></span>
-        <span class="node__title">Waarschuwing van Jan Gevers BV</span>
-          <span class="node__initiators">
-        <span class="initiator">Verschillende bak mixen [all-in] voor brood van het merk Cook &amp; Bake </span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Allergeen niet vermeld op het etiket: Ei</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="06/05/2026">
-          06/05/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
