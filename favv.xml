@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-05-14T08:13:17.281Z</updated>
+    <updated>2026-05-14T19:20:08.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Kikkererwtenmeel «Gram Flour » van het merk SCHANI]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-master-business-bv</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-master-business-bv"/>
+        <updated>2026-05-14T19:19:56.326Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-master-business-bv" title="Meer lezen over Terugroeping van MASTER BUSINESS bv" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-05/2026_05_14_recall_flour.jpg?itok=TsAO3I3e" width="250" height="500" alt="SCHANI" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van MASTER BUSINESS bv</span>
+          <span class="node__initiators">
+        <span class="initiator">Kikkererwtenmeel «Gram Flour » van het merk SCHANI</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Te hoog gehalte aan residu van gewasbeschermingsmiddelen (Chloorpyrifos)</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="14/05/2026">
+          14/05/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nutrilon Profutura 1 met THT 2027/06/04 en Nutrilon Profutura 2 met THT 2027/05/12]]></title>
         <id>https://favv-afsca.be/nl/producten/update-van-danone</id>
@@ -389,49 +432,6 @@
         <span class="initiator">Diervoeder voor honden en katten – “Ziege - Pure Duo-Rolls” van het merk RITZENBERGER PETFOOD</span>      </span>
               <span class="node__reasons">
         <span class="reason">Mogelijke aanwezigheid van stukjes plastic</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="08/05/2026">
-          08/05/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mass Gainer Chocolade smaak van het merk Kruidvat]]></title>
-        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-kruidvat</id>
-        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-kruidvat"/>
-        <updated>2026-05-08T18:52:58.453Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/waarschuwing-van-kruidvat" title="Meer lezen over Waarschuwing van Kruidvat" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-05/2026_05_08_WS_Mass%20gainer_foto.jpg?itok=l1oM5Yih" width="425" height="657" alt="mass gainer" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
-  <span class="taxonomy-term__title">
-            Waarschuwing
-      </span>
-</span></span>
-        <span class="node__title">Waarschuwing van Kruidvat</span>
-          <span class="node__initiators">
-        <span class="initiator">Mass Gainer Chocolade smaak van het merk Kruidvat</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Allergeen niet vermeld op het etiket: Soja</span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="08/05/2026">
           08/05/2026
