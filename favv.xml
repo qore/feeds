@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-05-26T19:34:23.275Z</updated>
+    <updated>2026-05-27T08:52:40.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
     <entry>
@@ -296,7 +296,7 @@
           <span class="node__initiators">
         <span class="initiator">NAN EXPERT pro zonder lactose van het merk NAN</span>      </span>
               <span class="node__reasons">
-        <span class="reason">Een leveringsfout kan ertoe hebben geleid dat producten die mogelijk besmet zijn met cereulide en waarvoor eerder al een terugroeping werd uitgevoerd, toch werden verkocht.</span>      </span>
+        <span class="reason">Leveringsfout, waardoor eerder teruggeroepen producten mogelijk werden verkocht</span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="20/05/2026">
           20/05/2026
