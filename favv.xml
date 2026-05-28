@@ -2,9 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-05-28T08:59:24.713Z</updated>
+    <updated>2026-05-28T19:54:06.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Verschillende producten [dranken, kazen...]]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-carrefour-30</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-carrefour-30"/>
+        <updated>2026-05-28T19:53:53.545Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-carrefour-30" title="Meer lezen over Terugroeping van Carrefour" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-05/2026_05_28_recallCarrefour_NL.jpg?itok=PNWvjWJD" width="634" height="464" alt="Verschillende producten" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Carrefour</span>
+          <span class="node__initiators">
+        <span class="initiator">Verschillende producten [dranken, kazen...]</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Onderbreking van de koudeketen waardoor de houdbaarheid en productveiligheid niet kan worden gegarandeerd</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="28/05/2026">
+          28/05/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chilisaus gerookt bio van het merk Pit & Pit]]></title>
+        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-pit-pit-bv-0</id>
+        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-pit-pit-bv-0"/>
+        <updated>2026-05-28T19:53:53.545Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/waarschuwing-van-pit-pit-bv-0" title="Meer lezen over Waarschuwing van Pit &amp; Pit bv" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-05/2026_05_28_WS_PitPit.jpg?itok=q7iU8VPS" width="201" height="640" alt="Sauce au piment fumé bio - Pit &amp; Pit" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
+  <span class="taxonomy-term__title">
+            Waarschuwing
+      </span>
+</span></span>
+        <span class="node__title">Waarschuwing van Pit &amp; Pit bv</span>
+          <span class="node__initiators">
+        <span class="initiator">Chilisaus gerookt bio van het merk Pit &amp; Pit</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Allergeen niet vermeld op het etiket: Soja</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="28/05/2026">
+          28/05/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SMOKY Sweet Chili Sauce van het merk BELBISCO]]></title>
         <id>https://favv-afsca.be/nl/producten/waarschuwing-van-les-piments-srl</id>
@@ -343,92 +429,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="20/05/2026">
           20/05/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chocolademousse “ Mousse au chocolat à l’ancienne”]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-grand-frais-9</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-grand-frais-9"/>
-        <updated>2026-05-18T19:13:01.097Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-grand-frais-9" title="Meer lezen over Terugroeping van Grand Frais" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-05/2026_05_18_recall_Mousse%20chocolat_foto.jpg?itok=A6uGe6Lk" width="183" height="161" alt="chocolademousse" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Grand Frais</span>
-          <span class="node__initiators">
-        <span class="initiator">Chocolademousse “ Mousse au chocolat à l’ancienne” </span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van stukjes glas</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="18/05/2026">
-          18/05/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MAÏS POPCORN van het merk KONOUZ]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-mns-sa-0</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-mns-sa-0"/>
-        <updated>2026-05-18T19:13:01.097Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-mns-sa-0" title="Meer lezen over Terugroeping van M.N.S. SA" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-05/2026_05_18_recall_Ma%C3%AFs_foto.jpg?itok=sgcquU_x" width="191" height="287" alt="maïs popcorn" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van M.N.S. SA</span>
-          <span class="node__initiators">
-        <span class="initiator">MAÏS POPCORN van het merk KONOUZ</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan residu van gewasbeschermingsmiddelen (Chloorpyrifos)</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="18/05/2026">
-          18/05/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
