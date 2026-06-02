@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-06-01T21:07:54.542Z</updated>
+    <updated>2026-06-02T20:27:04.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Groeimelk van het merk Lupilu]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-lidl</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-lidl"/>
+        <updated>2026-06-02T20:26:51.621Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-lidl" title="Meer lezen over Terugroeping van Lidl" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-06/2026_06_02_recall_Lidl_Groeimelk.jpg?itok=3Bfaop2E" width="176" height="459" alt="Lupilu" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Lidl</span>
+          <span class="node__initiators">
+        <span class="initiator">Groeimelk van het merk Lupilu</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Tijdelijk niet steriel afvullen van het product tijdens fabricage waardoor de melk gaat schiften (zichtbaar) en zuur smaakt</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="02/06/2026">
+          02/06/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kaas “Gorgonzola DOP Mild”]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-grand-frais-10</id>
@@ -389,49 +432,6 @@
         <span class="initiator">Pesto daslook van het merk bioverde</span>      </span>
               <span class="node__reasons">
         <span class="reason">Mogelijke aanwezigheid van kleine stukjes harde blauwe plastic in de potjes</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="21/05/2026">
-          21/05/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AH Pinda's extra groot gezouten van het merk Albert Heijn]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-albert-heijn-18</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-albert-heijn-18"/>
-        <updated>2026-05-21T19:27:05.191Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-albert-heijn-18" title="Meer lezen over Terugroeping van Albert Heijn" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-05/2026_05_20_recall_AH%20pinda%27s_foto.jpg?itok=1fk4uiXW" width="429" height="270" alt="pinda's" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Albert Heijn</span>
-          <span class="node__initiators">
-        <span class="initiator">AH Pinda's extra groot gezouten van het merk Albert Heijn</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van metaaldeeltjes</span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="21/05/2026">
           21/05/2026
