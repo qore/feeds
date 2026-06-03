@@ -2,16 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-06-02T20:27:04.913Z</updated>
+    <updated>2026-06-03T10:21:38.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Groeimelk van het merk Lupilu]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-lidl</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-lidl"/>
-        <updated>2026-06-02T20:26:51.621Z</updated>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-materna-operations</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-materna-operations"/>
+        <updated>2026-06-03T10:21:26.777Z</updated>
         <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-lidl" title="Meer lezen over Terugroeping van Lidl" class="node__card-link">
+  <a href="/nl/producten/terugroeping-van-materna-operations" title="Meer lezen over Terugroeping van Materna Operations" class="node__card-link">
               <span class="node__image"><div class="media media--type-image media--view-mode-default">
   
 
@@ -34,7 +34,7 @@
             Terugroeping
       </span>
 </span></span>
-        <span class="node__title">Terugroeping van Lidl</span>
+        <span class="node__title">Terugroeping van Materna Operations</span>
           <span class="node__initiators">
         <span class="initiator">Groeimelk van het merk Lupilu</span>      </span>
               <span class="node__reasons">
