@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-06-03T10:21:38.328Z</updated>
+    <updated>2026-06-04T09:13:00.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Tonijn salade pikant en gerookte zalmsalade van het merk Chef select]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-lidl-naam-van-signature-foods-belgium-nv</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-lidl-naam-van-signature-foods-belgium-nv"/>
+        <updated>2026-06-04T09:12:48.266Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-lidl-naam-van-signature-foods-belgium-nv" title="Meer lezen over Terugroeping van Lidl in naam van Signature Foods Belgium NV" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-06/2026-06-03_17h30_52.png?itok=nbT_LlkU" width="425" height="150" alt="rappel Lidl au nom de Signature Foods Belgium SA " class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Lidl in naam van Signature Foods Belgium NV</span>
+          <span class="node__initiators">
+        <span class="initiator">Tonijn salade pikant en gerookte zalmsalade van het merk Chef select </span>      </span>
+              <span class="node__reasons">
+        <span class="reason">mogelijke aanwezigheid van stukjes plastic [afkomstig van potje waar het product in afgevuld is]</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="03/06/2026">
+          03/06/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Groeimelk van het merk Lupilu]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-materna-operations</id>
@@ -392,49 +435,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="22/05/2026">
           22/05/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pesto daslook van het merk bioverde]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-biofresh</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-biofresh"/>
-        <updated>2026-05-21T19:27:05.189Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-biofresh" title="Meer lezen over Terugroeping van Biofresh" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-05/2026_05_21_recall_Biofresh_foto.jpg?itok=Q5dW9-fl" width="265" height="353" alt="pesto" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Biofresh</span>
-          <span class="node__initiators">
-        <span class="initiator">Pesto daslook van het merk bioverde</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van kleine stukjes harde blauwe plastic in de potjes</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="21/05/2026">
-          21/05/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
