@@ -2,9 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-06-07T08:36:38.358Z</updated>
+    <updated>2026-06-08T10:05:56.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sichuan Pepper Powder]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-135</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-135"/>
+        <updated>2026-06-08T10:05:44.173Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-het-favv-135" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-06/2026_06_08_recall_SichuanPepperPowder_foto.jpg?itok=0D_hhzhs" width="206" height="274" alt="sichuan pepper powder" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van het FAVV</span>
+          <span class="node__initiators">
+        <span class="initiator">Sichuan Pepper Powder</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Te hoog gehalte aan residu van gewasbeschermingsmiddelen (Chloorpyrifos)</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="08/06/2026">
+          08/06/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Praliné hazelnoot vulling van het merk Fun Cakes]]></title>
+        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-het-favv-25</id>
+        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-het-favv-25"/>
+        <updated>2026-06-08T10:05:44.175Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/waarschuwing-van-het-favv-25" title="Meer lezen over Waarschuwing van het FAVV" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-06/2026_06_08_WS_FAVV_FunCakes_foto.jpg?itok=RFkLyOq4" width="230" height="305" alt="funcakes" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
+  <span class="taxonomy-term__title">
+            Waarschuwing
+      </span>
+</span></span>
+        <span class="node__title">Waarschuwing van het FAVV</span>
+          <span class="node__initiators">
+        <span class="initiator">Praliné hazelnoot vulling van het merk Fun Cakes </span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Allergeen niet vermeld op het etiket: Amandelen</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="08/06/2026">
+          08/06/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bio paranoten van het merk Delhaize]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-delhaize-27</id>
@@ -346,98 +432,6 @@
         <span class="initiator">Kaas “Gorgonzola DOP Mild”</span>      </span>
               <span class="node__reasons">
         <span class="reason">Mogelijke aanwezigheid van Listeria monocytogenes</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="29/05/2026">
-          29/05/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dabo Kolo van het merk RAENA]]></title>
-        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-raena-bv</id>
-        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-raena-bv"/>
-        <updated>2026-05-29T19:53:29.975Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/waarschuwing-van-raena-bv" title="Meer lezen over Waarschuwing van RAENA BV" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-05/111.jpg?itok=Z_lpynuq" width="227" height="302" alt="WS_RAENA" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
-  <span class="taxonomy-term__title">
-            Waarschuwing
-      </span>
-</span></span>
-        <span class="node__title">Waarschuwing van RAENA BV</span>
-          <span class="node__initiators">
-        <span class="initiator">Dabo Kolo van het merk RAENA</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Allergeen niet vermeld op het etiket: gluten [tarwe]</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="29/05/2026">
-          29/05/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gedroogd fruit « Trockenfrüchte » van het merk Naz]]></title>
-        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-het-favv-22</id>
-        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-het-favv-22"/>
-        <updated>2026-05-29T19:53:29.979Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/waarschuwing-van-het-favv-22" title="Meer lezen over Waarschuwing van het FAVV" class="node__card-link">
-          <span class="node__update">  <span class="taxonomy-term taxonomy-term--update-tags taxonomy-term--view-mode-teaser taxonomy-term--color--dark-blue">
-  <span class="taxonomy-term__title">
-            Update
-      </span>
-</span>
-</span>
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2025-10/08_10_2025_gedroogd-fruit.jpg?itok=VUuNe8iT" width="800" height="520" alt="Fruits secs « Trockenfrüchte » - Naz" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
-  <span class="taxonomy-term__title">
-            Waarschuwing
-      </span>
-</span></span>
-        <span class="node__title">Waarschuwing van het FAVV</span>
-          <span class="node__initiators">
-        <span class="initiator">Gedroogd fruit « Trockenfrüchte » van het merk Naz</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Allergeen niet vermeld op het etiket: Sulfiet</span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="29/05/2026">
           29/05/2026
