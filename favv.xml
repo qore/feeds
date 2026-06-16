@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-06-16T10:27:09.137Z</updated>
+    <updated>2026-06-16T20:25:15.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[POPCORNMAÏS van het merk BOGRAIN]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-mia-trading-intl-sa</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-mia-trading-intl-sa"/>
+        <updated>2026-06-16T20:25:02.574Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-mia-trading-intl-sa" title="Meer lezen over Terugroeping van MIA TRADING INTL. SA" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-06/2026_06_16_Recall_maispopcorn_foto.jpg?itok=WQAfMZH-" width="159" height="278" alt="popcorn" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van MIA TRADING INTL. SA</span>
+          <span class="node__initiators">
+        <span class="initiator">POPCORNMAÏS van het merk BOGRAIN</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Te hoog gehalte aan residuen van een gewasbeschermingsmiddel - chloorpyrifos</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="16/06/2026">
+          16/06/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Natvoer lever en rund van het merk Coshida Selection en Natvoer lam, pasta en groenten van het merk Orlando]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-partner-pet-food-nl</id>
@@ -383,49 +426,6 @@
         <span class="initiator">BBQ Pittige Worsten [5 stuks] van het merk Jumbo</span>      </span>
               <span class="node__reasons">
         <span class="reason">Allergeen niet vermeld op het etiket: Soja</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="12/06/2026">
-          12/06/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Popcorn maïs van het merk La Cochura]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-door-safi-food-sa</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-door-safi-food-sa"/>
-        <updated>2026-06-13T08:38:06.612Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-door-safi-food-sa" title="Meer lezen over Terugroeping door SAFI FOOD SA" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-06/2026_06_12_Recall_SafiFood_Ma%C3%AFs_CP_foto.jpg?itok=gYSEQsac" width="146" height="110" alt="popcorn" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping door SAFI FOOD SA</span>
-          <span class="node__initiators">
-        <span class="initiator">Popcorn maïs van het merk La Cochura </span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan residuen van een gewasbeschermingsmiddel - chloorpyrifos</span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="12/06/2026">
           12/06/2026
