@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-06-26T08:39:30.315Z</updated>
+    <updated>2026-06-27T18:46:08.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“Nem Chua” en “Nem Chua La Tam Ruot” van het merk ORIENTAL KITCHEN]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-kung-fu-store</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-kung-fu-store"/>
+        <updated>2026-06-27T18:45:55.605Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-kung-fu-store" title="Meer lezen over Terugroeping van KUNG FU STORE " class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-06/2026_06_26_Recall_Kung%20Fu%20Store_foto.jpg?itok=3-Q1ej9R" width="282" height="211" alt="nem chua" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van KUNG FU STORE </span>
+          <span class="node__initiators">
+        <span class="initiator">“Nem Chua” en “Nem Chua La Tam Ruot” van het merk ORIENTAL KITCHEN</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van Listeria monocytogenes</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="26/06/2026">
+          26/06/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gele Rozijnen - Gelbe Rosinen van het merk Al Baraka BV]]></title>
         <id>https://favv-afsca.be/nl/producten/waarschuwing-van-het-favv-27</id>
@@ -389,49 +432,6 @@
         <span class="initiator">Verschillende vleesbereidingen van het merk Markey </span>      </span>
               <span class="node__reasons">
         <span class="reason">Verschillende allergenen niet vermeld op etiket</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="19/06/2026">
-          19/06/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noors gerookt zalmhaasje merk Vendsyssel]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-dfm-saveurs</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-dfm-saveurs"/>
-        <updated>2026-06-19T19:15:08.076Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-dfm-saveurs" title="Meer lezen over Terugroeping van DFM SAVEURS" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-06/2026_06_19_Recall_zalm_foto.jpg?itok=VLb40d8t" width="463" height="926" alt="zalm" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van DFM SAVEURS</span>
-          <span class="node__initiators">
-        <span class="initiator">Noors gerookt zalmhaasje merk Vendsyssel</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van Listeria monocytogenes</span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="19/06/2026">
           19/06/2026
