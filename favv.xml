@@ -2,9 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-06-30T08:42:23.998Z</updated>
+    <updated>2026-06-30T19:20:30.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“Tartin'o Original”, “Zeesalade” en “Curry Salade” van het merk La Vie Est Belle]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-la-vie-est-belle-bv</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-la-vie-est-belle-bv"/>
+        <updated>2026-06-30T19:20:18.014Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-la-vie-est-belle-bv" title="Meer lezen over Terugroeping van La Vie Est Belle BV" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-06/2026_06_30_zeesalade_La%20vie%20est%20belle.jpg?itok=7Ij5a3o9" width="960" height="315" alt="« Tartin'o Original », « Salade de la mer » et « Salade de curry » de la marque La Vie est Belle" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van La Vie Est Belle BV</span>
+          <span class="node__initiators">
+        <span class="initiator">“Tartin'o Original”, “Zeesalade” en “Curry Salade” van het merk La Vie Est Belle</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Aanwezigheid van Listeria monocytogenes</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="30/06/2026">
+          30/06/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spread Martino 170 g, Spread Curry 170 g en Zeespread van het merk Boni Plan’t]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-colruyt-bio-planet-en-comarkt</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-colruyt-bio-planet-en-comarkt"/>
+        <updated>2026-06-30T19:20:18.015Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-colruyt-bio-planet-en-comarkt" title="Meer lezen over Terugroeping van Colruyt, Bio-Planet en Comarkt" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-06/2026_06_30_Recall_Boni-Plan%27t-La-Vie-est-Belle.jpg?itok=DN2uqPt1" width="960" height="275" alt="Spread Martino, Spread Curry et Spread de la mer de la marque Boni Plan’t" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Colruyt, Bio-Planet en Comarkt</span>
+          <span class="node__initiators">
+        <span class="initiator">Spread Martino 170 g, Spread Curry 170 g en Zeespread van het merk Boni Plan’t</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Aanwezigheid van Listeria monocytogenes</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="30/06/2026">
+          30/06/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Nem Chua” en “Nem Chua La Tam Ruot” van het merk ORIENTAL KITCHEN]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-kung-fu-store</id>
@@ -349,92 +435,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="23/06/2026">
           23/06/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noten ‘noix de Brésil’ van het merk La Vie Claire]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-139</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-139"/>
-        <updated>2026-06-19T19:15:08.076Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-het-favv-139" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-06/2026_06_19_Recall_noten_foto.jpg?itok=ZAnpMONE" width="258" height="329" alt="noten" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van het FAVV</span>
-          <span class="node__initiators">
-        <span class="initiator">Noten ‘noix de Brésil’ van het merk La Vie Claire</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan aflatoxines</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="19/06/2026">
-          19/06/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verschillende vleesbereidingen van het merk Markey]]></title>
-        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-markey-vleeshandel-bv</id>
-        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-markey-vleeshandel-bv"/>
-        <updated>2026-06-19T19:15:08.076Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/waarschuwing-van-markey-vleeshandel-bv" title="Meer lezen over Waarschuwing van Markey vleeshandel BV " class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-06/2026_06_19_WS_Markey_foto1.jpg?itok=92UPisPQ" width="434" height="325" alt="vleesbereiding" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
-  <span class="taxonomy-term__title">
-            Waarschuwing
-      </span>
-</span></span>
-        <span class="node__title">Waarschuwing van Markey vleeshandel BV </span>
-          <span class="node__initiators">
-        <span class="initiator">Verschillende vleesbereidingen van het merk Markey </span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Verschillende allergenen niet vermeld op etiket</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="19/06/2026">
-          19/06/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
