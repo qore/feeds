@@ -2,14 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-07-03T18:47:38.286Z</updated>
+    <updated>2026-07-04T08:11:18.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Havermout zonder gluten van het merk Delhaize]]></title>
+        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-delhaize-5</id>
+        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-delhaize-5"/>
+        <updated>2026-07-04T08:11:06.641Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/waarschuwing-van-delhaize-5" title="Meer lezen over Waarschuwing van Delhaize " class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-07/2026_07_03_Delhaize_flocons%20avoine_foto.jpg?itok=kQJdph4q" width="149" height="179" alt="Havermout zonder gluten" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
+  <span class="taxonomy-term__title">
+            Waarschuwing
+      </span>
+</span></span>
+        <span class="node__title">Waarschuwing van Delhaize </span>
+          <span class="node__initiators">
+        <span class="initiator">Havermout zonder gluten van het merk Delhaize </span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van gluten </span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="04/07/2026">
+          04/07/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Sesamzaad geroosterd" en "Sesamzaad wit" van Colosseum]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-colosseum-nv</id>
         <link href="https://favv-afsca.be/nl/producten/terugroeping-van-colosseum-nv"/>
-        <updated>2026-07-03T18:47:26.303Z</updated>
+        <updated>2026-07-04T08:11:06.642Z</updated>
         <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
   <a href="/nl/producten/terugroeping-van-colosseum-nv" title="Meer lezen over Terugroeping van Colosseum NV" class="node__card-link">
               <span class="node__image"><div class="media media--type-image media--view-mode-default">
@@ -52,7 +95,7 @@
         <title type="html"><![CDATA["Crottin de Chavignol" kaas van het merk Triballat Rians]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-delhaize-29</id>
         <link href="https://favv-afsca.be/nl/producten/terugroeping-van-delhaize-29"/>
-        <updated>2026-07-03T18:47:26.304Z</updated>
+        <updated>2026-07-04T08:11:06.642Z</updated>
         <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
   <a href="/nl/producten/terugroeping-van-delhaize-29" title="Meer lezen over Terugroeping van Delhaize" class="node__card-link">
               <span class="node__image"><div class="media media--type-image media--view-mode-default">
@@ -95,7 +138,7 @@
         <title type="html"><![CDATA[Gusseisen-Pfanne van het merk Napoleon]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-141</id>
         <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-141"/>
-        <updated>2026-07-03T18:47:26.305Z</updated>
+        <updated>2026-07-04T08:11:06.643Z</updated>
         <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
   <a href="/nl/producten/terugroeping-van-het-favv-141" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
               <span class="node__image"><div class="media media--type-image media--view-mode-default">
@@ -392,49 +435,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="30/06/2026">
           30/06/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Nem Chua” en “Nem Chua La Tam Ruot” van het merk ORIENTAL KITCHEN]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-kung-fu-store</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-kung-fu-store"/>
-        <updated>2026-06-27T18:45:55.605Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-kung-fu-store" title="Meer lezen over Terugroeping van KUNG FU STORE " class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-06/2026_06_26_Recall_Kung%20Fu%20Store_foto.jpg?itok=3-Q1ej9R" width="282" height="211" alt="nem chua" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van KUNG FU STORE </span>
-          <span class="node__initiators">
-        <span class="initiator">“Nem Chua” en “Nem Chua La Tam Ruot” van het merk ORIENTAL KITCHEN</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van Listeria monocytogenes</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="26/06/2026">
-          26/06/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
