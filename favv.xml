@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-07-05T18:38:00.486Z</updated>
+    <updated>2026-07-06T09:36:35.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“Crottin de Chavignol” kaas van het merk Triballat Rians]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-142</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-142"/>
+        <updated>2026-07-06T09:36:24.112Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-het-favv-142" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-07/2026_07_06_recall_AFSCA_Crottin_foto.jpg?itok=HaBYxCsi" width="225" height="204" alt="kaas" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van het FAVV</span>
+          <span class="node__initiators">
+        <span class="initiator">“Crottin de Chavignol” kaas van het merk Triballat Rians</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van E. Coli STEC</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="06/07/2026">
+          06/07/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Havermout zonder gluten van het merk Delhaize]]></title>
         <id>https://favv-afsca.be/nl/producten/waarschuwing-van-delhaize-5</id>
@@ -387,49 +430,6 @@
         <span class="node__title">Terugroeping van La Vie Est Belle BV</span>
           <span class="node__initiators">
         <span class="initiator">“Tartin'o Original”, “Zeesalade” en “Curry Salade” van het merk La Vie Est Belle</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Aanwezigheid van Listeria monocytogenes</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="30/06/2026">
-          30/06/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spread Martino 170 g, Spread Curry 170 g en Zeespread van het merk Boni Plan’t]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-colruyt-bio-planet-en-comarkt</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-colruyt-bio-planet-en-comarkt"/>
-        <updated>2026-06-30T19:20:18.015Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-colruyt-bio-planet-en-comarkt" title="Meer lezen over Terugroeping van Colruyt, Bio-Planet en Comarkt" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-06/2026_06_30_Recall_Boni-Plan%27t-La-Vie-est-Belle.jpg?itok=DN2uqPt1" width="960" height="275" alt="Spread Martino, Spread Curry et Spread de la mer de la marque Boni Plan’t" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Colruyt, Bio-Planet en Comarkt</span>
-          <span class="node__initiators">
-        <span class="initiator">Spread Martino 170 g, Spread Curry 170 g en Zeespread van het merk Boni Plan’t</span>      </span>
               <span class="node__reasons">
         <span class="reason">Aanwezigheid van Listeria monocytogenes</span>      </span>
         <span class="node__bottom">
