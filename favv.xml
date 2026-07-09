@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-07-09T08:57:04.362Z</updated>
+    <updated>2026-07-09T19:08:26.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Matcha Tea van het merk SHAN WAI SHAN]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-143</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-143"/>
+        <updated>2026-07-09T19:08:14.642Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-het-favv-143" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-07/2026_07_09_FAVV_SHAN%20WAI%20SHAN_foto.jpg?itok=T_bVbsKo" width="493" height="610" alt="Matcha Tea van het merk SHAN WAI SHAN" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van het FAVV</span>
+          <span class="node__initiators">
+        <span class="initiator">Matcha Tea van het merk SHAN WAI SHAN</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Te hoge migratie van aluminium</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="09/07/2026">
+          09/07/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Sesamzaad”  van het merk M.N.S]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-mns-sa-1</id>
@@ -389,49 +432,6 @@
         <span class="initiator">”Sichuan Pepper Powder” en “Sichuan Pepper Salt”</span>      </span>
               <span class="node__reasons">
         <span class="reason">Te hoog gehalte aan residu van gewasbeschermingsmiddelen (Chloorpyrifos)</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="01/07/2026">
-          01/07/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verschillende producten op basis van rundergehakt “Burger”, "Köfte”, “Adana Kebab” en “Rundergehakt” van het merk Wahid]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-140</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-140"/>
-        <updated>2026-07-02T08:29:17.991Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-het-favv-140" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-07/2026_07_01_FAVV_vleesproducten_foto.png?itok=0RVaCT-k" width="812" height="245" alt="vleesproducten" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van het FAVV</span>
-          <span class="node__initiators">
-        <span class="initiator">Verschillende producten op basis van rundergehakt “Burger”, "Köfte”, “Adana Kebab” en “Rundergehakt” van het merk Wahid</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van Salmonella</span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="01/07/2026">
           01/07/2026
