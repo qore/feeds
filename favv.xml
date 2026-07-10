@@ -2,9 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-07-10T08:49:31.232Z</updated>
+    <updated>2026-07-10T19:04:42.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Popcorn maïs van het merk Tagine]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-soussi-markt</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-soussi-markt"/>
+        <updated>2026-07-10T19:04:30.405Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-soussi-markt" title="Meer lezen over Terugroeping van Soussi Markt" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-07/2026_07_10_popcorn_soussi_foto.jpg?itok=tWPHk7CP" width="183" height="165" alt="popcorn" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Soussi Markt</span>
+          <span class="node__initiators">
+        <span class="initiator">Popcorn maïs van het merk Tagine </span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Te hoog gehalte aan residuen van een gewasbeschermingsmiddel - chloorpyrifos</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="10/07/2026">
+          10/07/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“chocomousse” van het merk Grandeur Nature]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-biofresh-belgium-4</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-biofresh-belgium-4"/>
+        <updated>2026-07-10T19:04:30.407Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-biofresh-belgium-4" title="Meer lezen over Terugroeping van Biofresh Belgium" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-07/2026_07_10_Biofresh_foto.jpg?itok=jWtBNppf" width="640" height="853" alt="chocomousse" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Biofresh Belgium</span>
+          <span class="node__initiators">
+        <span class="initiator">“chocomousse” van het merk Grandeur Nature</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van enterobacteriën</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="10/07/2026">
+          10/07/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Matcha Tea van het merk SHAN WAI SHAN]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-143</id>
@@ -343,98 +429,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="03/07/2026">
           03/07/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pesto Rosso con mascarpone van het merk De Cecco]]></title>
-        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-albert-heijn-9</id>
-        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-albert-heijn-9"/>
-        <updated>2026-07-02T18:58:06.482Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/waarschuwing-van-albert-heijn-9" title="Meer lezen over Waarschuwing van Albert Heijn" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-07/2026_07_02_WS_AH_DeCecco_foto.jpg?itok=5kc_xsLX" width="375" height="664" alt="pesto rosso" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
-  <span class="taxonomy-term__title">
-            Waarschuwing
-      </span>
-</span></span>
-        <span class="node__title">Waarschuwing van Albert Heijn</span>
-          <span class="node__initiators">
-        <span class="initiator">Pesto Rosso con mascarpone van het merk De Cecco</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Allergenen niet vermeld op het etiket: walnoten</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="02/07/2026">
-          02/07/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[”Sichuan Pepper Powder” en “Sichuan Pepper Salt”]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-135</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-het-favv-135"/>
-        <updated>2026-07-02T08:29:17.990Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-het-favv-135" title="Meer lezen over Terugroeping van het FAVV" class="node__card-link">
-          <span class="node__update">  <span class="taxonomy-term taxonomy-term--update-tags taxonomy-term--view-mode-teaser taxonomy-term--color--dark-blue">
-  <span class="taxonomy-term__title">
-            Update
-      </span>
-</span>
-</span>
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-06/2026_06_08_recall_SichuanPepperPowder_foto.jpg?itok=0D_hhzhs" width="206" height="274" alt="sichuan pepper powder" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van het FAVV</span>
-          <span class="node__initiators">
-        <span class="initiator">”Sichuan Pepper Powder” en “Sichuan Pepper Salt”</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan residu van gewasbeschermingsmiddelen (Chloorpyrifos)</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="01/07/2026">
-          01/07/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
