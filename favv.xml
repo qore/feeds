@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-07-16T07:36:57.794Z</updated>
+    <updated>2026-07-16T18:42:17.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“Dried Jute Leaves” Saluyot van het merk Buenas]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-majestic-unlimited</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-majestic-unlimited"/>
+        <updated>2026-07-16T18:42:04.458Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-majestic-unlimited" title="Meer lezen over Terugroeping van Majestic Unlimited " class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-07/2026_07_16_Majestic_foto.jpg?itok=3YQloRPK" width="225" height="225" alt="Dried jute leaves" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Majestic Unlimited </span>
+          <span class="node__initiators">
+        <span class="initiator">“Dried Jute Leaves” Saluyot van het merk Buenas</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van Listeria monocytogenes</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="16/07/2026">
+          16/07/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gerookt zalmhaasje “citroen” van het merk Vendsyssel]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-dfm-saveurs-0</id>
@@ -386,49 +429,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="09/07/2026">
           09/07/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Sesamzaad”  van het merk M.N.S]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-mns-sa-1</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-mns-sa-1"/>
-        <updated>2026-07-08T18:54:31.225Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-mns-sa-1" title="Meer lezen over Terugroeping van M.N.S SA" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-07/2026_07_08_MSN_sesam_foto.png?itok=VAdZ_OA5" width="652" height="462" alt="sesam" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van M.N.S SA</span>
-          <span class="node__initiators">
-        <span class="initiator">"Sesamzaad”  van het merk M.N.S </span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan residu van gewasbeschermingsmiddelen (Chloorpyrifos)</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="08/07/2026">
-          08/07/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
