@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-07-21T18:50:40.168Z</updated>
+    <updated>2026-07-22T18:43:03.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Noten en gedroogde vruchten van het merk SIMPL]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-carrefour-32</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-carrefour-32"/>
+        <updated>2026-07-22T18:42:49.712Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-carrefour-32" title="Meer lezen over Terugroeping van Carrefour " class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-07/2026_07_22_carrefour_foto.png?itok=20h4FgbS" width="148" height="223" alt="noten en gedroogde vruchten" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Carrefour </span>
+          <span class="node__initiators">
+        <span class="initiator">Noten en gedroogde vruchten van het merk SIMPL</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Te hoog gehalte aan ochratoxine A</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="22/07/2026">
+          22/07/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Zalm Gerookt Noors” van het merk Delhaize]]></title>
         <id>https://favv-afsca.be/nl/producten/waarschuwing-van-delhaize-6</id>
@@ -386,49 +429,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="13/07/2026">
           13/07/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Popcorn maïs van het merk Tagine]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-soussi-markt</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-soussi-markt"/>
-        <updated>2026-07-10T19:04:30.405Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-soussi-markt" title="Meer lezen over Terugroeping van Soussi Markt" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-07/2026_07_10_popcorn_soussi_foto.jpg?itok=tWPHk7CP" width="183" height="165" alt="popcorn" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Soussi Markt</span>
-          <span class="node__initiators">
-        <span class="initiator">Popcorn maïs van het merk Tagine </span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan residuen van een gewasbeschermingsmiddel - chloorpyrifos</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="10/07/2026">
-          10/07/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
