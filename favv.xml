@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-07-22T18:43:03.007Z</updated>
+    <updated>2026-07-23T07:57:46.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Noten en gedroogde vruchten van het merk SIMPL]]></title>
+        <title type="html"><![CDATA[Rozijnen sultana van het merk SIMPL]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-carrefour-32</id>
         <link href="https://favv-afsca.be/nl/producten/terugroeping-van-carrefour-32"/>
         <updated>2026-07-22T18:42:49.712Z</updated>
@@ -36,7 +36,7 @@
 </span></span>
         <span class="node__title">Terugroeping van Carrefour </span>
           <span class="node__initiators">
-        <span class="initiator">Noten en gedroogde vruchten van het merk SIMPL</span>      </span>
+        <span class="initiator">Rozijnen sultana van het merk SIMPL</span>      </span>
               <span class="node__reasons">
         <span class="reason">Te hoog gehalte aan ochratoxine A</span>      </span>
         <span class="node__bottom">
@@ -167,7 +167,7 @@
           <span class="node__initiators">
         <span class="initiator">“Dried Jute Leaves” Saluyot van het merk Buenas</span>      </span>
               <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van Listeria monocytogenes</span>      </span>
+        <span class="reason">Te hoog gehalte aan gewasbeschermingsmiddelen - chloorpyrifos en cypermethrin</span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="16/07/2026">
           16/07/2026
