@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-07-23T07:57:46.872Z</updated>
+    <updated>2026-07-23T18:47:03.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Zadenbroodmix en Biologisch lijnzaad van het merk Origami]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-vajra-delibio</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-vajra-delibio"/>
+        <updated>2026-07-23T18:46:51.326Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-vajra-delibio" title="Meer lezen over Terugroeping van Vajra Delibio" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-07/2026_07_23_delibio_foto1.jpg?itok=DaZj5qi6" width="180" height="234" alt="zadenmix" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Vajra Delibio</span>
+          <span class="node__initiators">
+        <span class="initiator">Zadenbroodmix en Biologisch lijnzaad van het merk Origami</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Te hoog gehalte aan waterstofcyanide HCN</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="23/07/2026">
+          23/07/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rozijnen sultana van het merk SIMPL]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-carrefour-32</id>
@@ -383,49 +426,6 @@
         <span class="initiator">Chocolademousse van het merk Grandeur Nature </span>      </span>
               <span class="node__reasons">
         <span class="reason">Mogelijke aanwezigheid van enterobacteriën</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="13/07/2026">
-          13/07/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[« Cœur de saumon fumé citron basilic 150g & 300g» van het merk Grand Frais]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-grand-frais-12</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-grand-frais-12"/>
-        <updated>2026-07-13T18:56:22.607Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-grand-frais-12" title="Meer lezen over Terugroeping van Grand Frais" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-07/2026_07_13_GrandFrais_saumon_foto1.jpg?itok=3gbd5TKZ" width="223" height="309" alt="zalm" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Grand Frais</span>
-          <span class="node__initiators">
-        <span class="initiator">« Cœur de saumon fumé citron basilic 150g &amp; 300g» van het merk Grand Frais </span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van Listeria monocytogenes</span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="13/07/2026">
           13/07/2026
