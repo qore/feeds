@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-07-28T08:01:01.365Z</updated>
+    <updated>2026-07-28T18:54:24.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bio kalkoenlapjes van het merk Delhaize]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-delhaize-30</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-delhaize-30"/>
+        <updated>2026-07-28T18:54:11.470Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-delhaize-30" title="Meer lezen over Terugroeping van Delhaize" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-07/2026_07_28_Kalkoenlapje_foto.jpg?itok=wvGrrn3m" width="265" height="410" alt="kalkoenlapje" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Delhaize</span>
+          <span class="node__initiators">
+        <span class="initiator">Bio kalkoenlapjes van het merk Delhaize</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van Salmonella</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="28/07/2026">
+          28/07/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rijstwafels met volle rijst van het merk LIMA]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-lima-natuurvoeding-bv</id>
@@ -383,49 +426,6 @@
         <span class="initiator">Gerookt zalmhaasje “citroen” van het merk Vendsyssel </span>      </span>
               <span class="node__reasons">
         <span class="reason">Mogelijke aanwezigheid van Listeria monocytogenes</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="14/07/2026">
-          14/07/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Natural Olive Oil Seaweed” zeewiersnack van het merk Garimi]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-caroma-asia-food-center</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-caroma-asia-food-center"/>
-        <updated>2026-07-14T18:40:53.261Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-caroma-asia-food-center" title="Meer lezen over Terugroeping van Caroma (Asia Food Center)" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-07/2026_07_14_recall_caroma_foto.png?itok=EXuhjteW" width="656" height="437" alt="zeewiersnack" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Caroma (Asia Food Center)</span>
-          <span class="node__initiators">
-        <span class="initiator">"Natural Olive Oil Seaweed” zeewiersnack van het merk Garimi</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan jodium </span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="14/07/2026">
           14/07/2026
