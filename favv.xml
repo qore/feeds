@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-07-27T08:59:57.422Z</updated>
+    <updated>2026-07-28T08:01:01.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Rijstwafels met volle rijst van het merk LIMA]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-lima-natuurvoeding-bv</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-lima-natuurvoeding-bv"/>
+        <updated>2026-07-28T08:00:48.700Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-lima-natuurvoeding-bv" title="Meer lezen over Terugroeping van Lima Natuurvoeding BV" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-07/2026_07_27_Rijstwafels_foto.jpg?itok=Y7gyTugA" width="437" height="761" alt="rijstwafel" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Lima Natuurvoeding BV</span>
+          <span class="node__initiators">
+        <span class="initiator">Rijstwafels met volle rijst van het merk LIMA </span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Te hoog gehalte aan aflatoxines</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="27/07/2026">
+          27/07/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tongblok van het merk Colruyt]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-colruyt-laagste-prijzen</id>
@@ -383,49 +426,6 @@
         <span class="initiator">"Natural Olive Oil Seaweed” zeewiersnack van het merk Garimi</span>      </span>
               <span class="node__reasons">
         <span class="reason">Te hoog gehalte aan jodium </span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="14/07/2026">
-          14/07/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[chocolademousse fondant van het merk Grandeur Nature]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-bio-planet-2</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-bio-planet-2"/>
-        <updated>2026-07-14T07:26:04.774Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-bio-planet-2" title="Meer lezen over Terugroeping van Bio-Planet " class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-07/2026_07_13_Bioplanet_mousse_foto.jpg?itok=v33EvN1Z" width="353" height="385" alt="chocolademousse" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Bio-Planet </span>
-          <span class="node__initiators">
-        <span class="initiator">chocolademousse fondant van het merk Grandeur Nature</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van enterobacteriën</span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="14/07/2026">
           14/07/2026
