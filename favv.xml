@@ -2,9 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-07-29T08:06:35.929Z</updated>
+    <updated>2026-07-29T18:32:59.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bio kalkoenlapjes van het merk Picoreur]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-biofresh-belgium-5</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-biofresh-belgium-5"/>
+        <updated>2026-07-29T18:32:46.335Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-biofresh-belgium-5" title="Meer lezen over Terugroeping van Biofresh Belgium" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-07/2026_07_29_Kalkoenlapje.jpg?itok=Kdsi2f0A" width="401" height="645" alt="Bio escalope de dinde - Picoreur" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Biofresh Belgium</span>
+          <span class="node__initiators">
+        <span class="initiator">Bio kalkoenlapjes van het merk Picoreur</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van Salmonella</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="29/07/2026">
+          29/07/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strooibuffet]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-mijten-nv</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-mijten-nv"/>
+        <updated>2026-07-29T18:32:46.337Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-mijten-nv" title="Meer lezen over Terugroeping van Mijten NV" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-07/2026_07_29_Strooibuffet_foto.jpg?itok=iECHh8xS" width="273" height="514" alt="strooibuffet" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Mijten NV</span>
+          <span class="node__initiators">
+        <span class="initiator">Strooibuffet </span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Aanwezigheid Ambrosiazaden</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="29/07/2026">
+          29/07/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bio kalkoenlapjes van het merk Delhaize]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-delhaize-30</id>
@@ -343,92 +429,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="17/07/2026">
           17/07/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Dried Jute Leaves” Saluyot van het merk Buenas]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-majestic-unlimited</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-majestic-unlimited"/>
-        <updated>2026-07-16T18:42:04.458Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-majestic-unlimited" title="Meer lezen over Terugroeping van Majestic Unlimited " class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-07/2026_07_16_Majestic_foto.jpg?itok=3YQloRPK" width="225" height="225" alt="Dried jute leaves" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Majestic Unlimited </span>
-          <span class="node__initiators">
-        <span class="initiator">“Dried Jute Leaves” Saluyot van het merk Buenas</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan gewasbeschermingsmiddelen - chloorpyrifos en cypermethrin</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="16/07/2026">
-          16/07/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gerookt zalmhaasje “citroen” van het merk Vendsyssel]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-dfm-saveurs-0</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-dfm-saveurs-0"/>
-        <updated>2026-07-14T18:40:53.259Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-dfm-saveurs-0" title="Meer lezen over Terugroeping van DFM SAVEURS  " class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-07/2026_07_14_zalm_foto.png?itok=R81Te_FG" width="185" height="451" alt="zalm" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van DFM SAVEURS  </span>
-          <span class="node__initiators">
-        <span class="initiator">Gerookt zalmhaasje “citroen” van het merk Vendsyssel </span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van Listeria monocytogenes</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="14/07/2026">
-          14/07/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
