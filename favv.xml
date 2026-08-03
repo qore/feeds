@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-08-03T08:48:21.657Z</updated>
+    <updated>2026-08-03T19:07:13.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Olijven gevuld met citroen van het merk Amogusti]]></title>
+        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-het-favv-28</id>
+        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-het-favv-28"/>
+        <updated>2026-08-03T19:06:57.913Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/waarschuwing-van-het-favv-28" title="Meer lezen over Waarschuwing van het FAVV" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-08/2026_07_02_WS_FAVV_olijven_foto.jpg?itok=PBx2XeC4" width="135" height="151" alt="olijven" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
+  <span class="taxonomy-term__title">
+            Waarschuwing
+      </span>
+</span></span>
+        <span class="node__title">Waarschuwing van het FAVV</span>
+          <span class="node__initiators">
+        <span class="initiator">Olijven gevuld met citroen van het merk Amogusti</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Allergeen niet vermeld op het etiket: Vis</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="03/08/2026">
+          03/08/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Biologische vijgen 200g van het merk Noberasco]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-bio-planet-3</id>
@@ -386,49 +429,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="22/07/2026">
           22/07/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Zalm Gerookt Noors” van het merk Delhaize]]></title>
-        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-delhaize-6</id>
-        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-delhaize-6"/>
-        <updated>2026-07-18T07:14:46.668Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/waarschuwing-van-delhaize-6" title="Meer lezen over Waarschuwing van Delhaize" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-07/2026_07_17_WS_delhaize_foto.png?itok=vm92GVhs" width="453" height="453" alt="Zalm Gerookt Noors" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
-  <span class="taxonomy-term__title">
-            Waarschuwing
-      </span>
-</span></span>
-        <span class="node__title">Waarschuwing van Delhaize</span>
-          <span class="node__initiators">
-        <span class="initiator">“Zalm Gerookt Noors” van het merk Delhaize </span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Op de verpakking staat een onjuiste houdbaarheidsdatum vermeld. De vermelde houdbaarheidsdatum is 02/10/2026, terwijl de correcte houdbaarheidsdatum 02/08/2026 is.</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="17/07/2026">
-          17/07/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
