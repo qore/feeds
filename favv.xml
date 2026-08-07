@@ -2,9 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-08-07T06:49:03.916Z</updated>
+    <updated>2026-08-07T18:23:34.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[gemarineerde eendenfilet ± 350 g]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-colruyt-laagste-prijzen-0</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-colruyt-laagste-prijzen-0"/>
+        <updated>2026-08-07T18:23:22.288Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-colruyt-laagste-prijzen-0" title="Meer lezen over Terugroeping van Colruyt Laagste Prijzen" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-08/2026_08_07_recall_eendenfilet_colruyt_foto.jpg?itok=W21hi9ok" width="653" height="422" alt="eendenfilet" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Colruyt Laagste Prijzen</span>
+          <span class="node__initiators">
+        <span class="initiator">gemarineerde eendenfilet ± 350 g</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van Salmonella</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="07/08/2026">
+          07/08/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spaghetti Bolognese van het merk Carrefour Baby Bio]]></title>
+        <id>https://favv-afsca.be/nl/producten/waarschuwing-van-carrefour-belgium</id>
+        <link href="https://favv-afsca.be/nl/producten/waarschuwing-van-carrefour-belgium"/>
+        <updated>2026-08-07T18:23:22.289Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/waarschuwing-van-carrefour-belgium" title="Meer lezen over Waarschuwing van Carrefour Belgium" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-08/2026_08_07_WS_Baby-Bio-Spaghetti-Bolognaise.jpg?itok=dVq8bcVW" width="474" height="478" alt="Spaghetti Bolognese - Carrefour Baby Bio" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--blue">
+  <span class="taxonomy-term__title">
+            Waarschuwing
+      </span>
+</span></span>
+        <span class="node__title">Waarschuwing van Carrefour Belgium</span>
+          <span class="node__initiators">
+        <span class="initiator">Spaghetti Bolognese van het merk Carrefour Baby Bio</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Allergeen niet vermeld op het etiket: Melk</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="07/08/2026">
+          07/08/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Olijfolie met basilicumsmaak van het merk LPDA]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-door-lpda-les-plaisirs-dange</id>
@@ -343,92 +429,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="28/07/2026">
           28/07/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rijstwafels met volle rijst van het merk LIMA]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-lima-natuurvoeding-bv</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-lima-natuurvoeding-bv"/>
-        <updated>2026-07-28T08:00:48.700Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-lima-natuurvoeding-bv" title="Meer lezen over Terugroeping van Lima Natuurvoeding BV" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-07/2026_07_27_Rijstwafels_foto.jpg?itok=Y7gyTugA" width="437" height="761" alt="rijstwafel" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Lima Natuurvoeding BV</span>
-          <span class="node__initiators">
-        <span class="initiator">Rijstwafels met volle rijst van het merk LIMA </span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Te hoog gehalte aan aflatoxines</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="27/07/2026">
-          27/07/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tongblok van het merk Colruyt]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-colruyt-laagste-prijzen</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-colruyt-laagste-prijzen"/>
-        <updated>2026-07-24T19:00:22.595Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-colruyt-laagste-prijzen" title="Meer lezen over Terugroeping van Colruyt Laagste Prijzen" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-07/2026_07_24_Tongblok_foto.jpg?itok=2dKewsPB" width="198" height="163" alt="tongblok" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Colruyt Laagste Prijzen</span>
-          <span class="node__initiators">
-        <span class="initiator">Tongblok van het merk Colruyt</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijk aanwezigheid van listeria monocytogenes</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="24/07/2026">
-          24/07/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
