@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-08-06T08:02:04.759Z</updated>
+    <updated>2026-08-07T06:49:03.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Olijfolie met basilicumsmaak van het merk LPDA]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-door-lpda-les-plaisirs-dange</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-door-lpda-les-plaisirs-dange"/>
+        <updated>2026-08-07T06:48:50.805Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-door-lpda-les-plaisirs-dange" title="Meer lezen over Terugroeping door LPDA (Les Plaisirs d’Ange) " class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-08/06_08_2026_recall_LDPA_olie_foto.jpg?itok=A5rgY4nR" width="272" height="204" alt="olie" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping door LPDA (Les Plaisirs d’Ange) </span>
+          <span class="node__initiators">
+        <span class="initiator">Olijfolie met basilicumsmaak van het merk LPDA</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Te hoog gehalte aan minerale oliën MOAH</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="06/08/2026">
+          06/08/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Olijfolie van verschillende merken]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-sligro-food-group-belgium</id>
@@ -383,49 +426,6 @@
         <span class="initiator">Tongblok van het merk Colruyt</span>      </span>
               <span class="node__reasons">
         <span class="reason">Mogelijk aanwezigheid van listeria monocytogenes</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="24/07/2026">
-          24/07/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wokpan - 28cm]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-tedi-distribution-bv</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-tedi-distribution-bv"/>
-        <updated>2026-07-24T19:00:22.598Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-tedi-distribution-bv" title="Meer lezen over Terugroeping van TEDi Distribution BV " class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-07/2026_07_24_wokpan_foto.jpg?itok=nAydzJJr" width="420" height="253" alt="wokpan" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van TEDi Distribution BV </span>
-          <span class="node__initiators">
-        <span class="initiator">Wokpan - 28cm</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Loskomen van de coating </span>      </span>
         <span class="node__bottom">
               <time class="node__issue-date" datetime="24/07/2026">
           24/07/2026
