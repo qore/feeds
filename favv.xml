@@ -2,9 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://favv-afsca.be/nl/producten</id>
     <title>Terugroepingen en waarschuwingen van producten</title>
-    <updated>2026-08-10T06:52:16.396Z</updated>
+    <updated>2026-08-10T18:24:30.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://favv-afsca.be/themes/custom/favv_afsca/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Eieren [Scharreleieren] met stempelcode “2-BE-1073-01”, “2-BE-1073-02”, “2-BE-1073-03” en “2-BE-1073-04”]]></title>
+        <id>https://favv-afsca.be/nl/producten/terugroeping-van-laerco-bv-0</id>
+        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-laerco-bv-0"/>
+        <updated>2026-08-10T18:24:18.736Z</updated>
+        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
+  <a href="/nl/producten/terugroeping-van-laerco-bv-0" title="Meer lezen over Terugroeping van Laerco BV" class="node__card-link">
+              <span class="node__image"><div class="media media--type-image media--view-mode-default">
+  
+
+      <div class="media__content">
+      
+  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <figcaption class="field__label visually-hidden">Image</figcaption>
+                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-08/2026_08_10_recall_Laerco.jpg?itok=5_GGM90G" width="960" height="360" alt="Œufs de poules élevées au sol / Scharreleieren" class="image-style--extra-large">
+
+
+
+            </figure>
+
+    </div>
+    
+</div>
+</span>
+              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
+  <span class="taxonomy-term__title">
+            Terugroeping
+      </span>
+</span></span>
+        <span class="node__title">Terugroeping van Laerco BV</span>
+          <span class="node__initiators">
+        <span class="initiator">Eieren [Scharreleieren] met stempelcode “2-BE-1073-01”, “2-BE-1073-02”, “2-BE-1073-03” en “2-BE-1073-04”</span>      </span>
+              <span class="node__reasons">
+        <span class="reason">Mogelijke aanwezigheid van Salmonella</span>      </span>
+        <span class="node__bottom">
+              <time class="node__issue-date" datetime="10/08/2026">
+          10/08/2026
+        </time>
+            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
+    </span>
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[gemarineerde eendenfilet ± 350 g]]></title>
         <id>https://favv-afsca.be/nl/producten/terugroeping-van-colruyt-laagste-prijzen-0</id>
@@ -386,49 +429,6 @@
         <span class="node__bottom">
               <time class="node__issue-date" datetime="29/07/2026">
           29/07/2026
-        </time>
-            <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
-    </span>
-  </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bio kalkoenlapjes van het merk Delhaize]]></title>
-        <id>https://favv-afsca.be/nl/producten/terugroeping-van-delhaize-30</id>
-        <link href="https://favv-afsca.be/nl/producten/terugroeping-van-delhaize-30"/>
-        <updated>2026-07-28T18:54:11.470Z</updated>
-        <content type="html"><![CDATA[<div class="node node--type-product node--promoted node--view-mode-teaser">
-  <a href="/nl/producten/terugroeping-van-delhaize-30" title="Meer lezen over Terugroeping van Delhaize" class="node__card-link">
-              <span class="node__image"><div class="media media--type-image media--view-mode-default">
-  
-
-      <div class="media__content">
-      
-  <figure role="group" aria-label="Image" class="field field--name-field-media-image field--type-image field--label-visually_hidden">
-    <figcaption class="field__label visually-hidden">Image</figcaption>
-                    <img loading="lazy" src="/sites/default/files/styles/extra_large/public/2026-07/2026_07_28_Kalkoenlapje_foto.jpg?itok=wvGrrn3m" width="265" height="410" alt="kalkoenlapje" class="image-style--extra-large">
-
-
-
-            </figure>
-
-    </div>
-    
-</div>
-</span>
-              <span class="node__issue-type"><span class="taxonomy-term taxonomy-term--product-issue-types taxonomy-term--view-mode-teaser taxonomy-term--color--red">
-  <span class="taxonomy-term__title">
-            Terugroeping
-      </span>
-</span></span>
-        <span class="node__title">Terugroeping van Delhaize</span>
-          <span class="node__initiators">
-        <span class="initiator">Bio kalkoenlapjes van het merk Delhaize</span>      </span>
-              <span class="node__reasons">
-        <span class="reason">Mogelijke aanwezigheid van Salmonella</span>      </span>
-        <span class="node__bottom">
-              <time class="node__issue-date" datetime="28/07/2026">
-          28/07/2026
         </time>
             <span class="node__read-more" aria-hidden="true" tabindex="-1"><span>Lees meer</span></span>
     </span>
